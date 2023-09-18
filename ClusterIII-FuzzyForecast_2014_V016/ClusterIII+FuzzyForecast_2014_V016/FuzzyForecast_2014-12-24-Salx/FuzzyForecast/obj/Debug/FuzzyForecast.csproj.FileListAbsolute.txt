@@ -1,0 +1,108 @@
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.exe
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.pdb
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.dll
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.dll
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.pdb
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.pdb
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProjectSettingForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.GraphForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MainForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MFEdit.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelUserControl.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.NeuralSettingForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.Properties.Resources.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ACLSettingsForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SeriesSettingsForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ShowTableForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.TermsForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.csproj.GenerateResource.Cache
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.exe
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.pdb
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SaveReportForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ReportForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\ResolveAssemblyReference.cache
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ReportForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SaveReportForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProjectSettingForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.GraphForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MainForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MFEdit.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelUserControl.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.NeuralSettingForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.Properties.Resources.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ACLSettingsForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SeriesSettingsForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ShowTableForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.TermsForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.csproj.GenerateResource.Cache
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.exe
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.pdb
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.dll
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.dll
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.pdb
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.pdb
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.exe
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.pdb
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelSettingForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelSettingForm.resources
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProgressForm.resources
+D:\artem\Учеба\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProgressForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.exe
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.pdb
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.exe
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.dll
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.dll
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.pdb
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.pdb
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\ResolveAssemblyReference.cache
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProgressForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ReportForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SaveReportForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProjectSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.CreatreTimeSeriesForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.FuzzyScaleSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.GraphForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MainForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MFEdit.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelUserControl.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.NeuralSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.Properties.Resources.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ACLSettingsForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SeriesSettingsForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ShowTableForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.TermsForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.csproj.GenerateResource.Cache
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.pdb
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.exe
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.pdb
+E:\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.exe
+E:\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyForecast.pdb
+E:\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.dll
+E:\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.dll
+E:\FuzzyForecast\FuzzyForecast\bin\Debug\FuzzyLogicLibrary.pdb
+E:\FuzzyForecast\FuzzyForecast\bin\Debug\NeuronLibrary.pdb
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\ResolveAssemblyReference.cache
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProgressForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ReportForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SaveReportForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ProjectSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.CreatreTimeSeriesForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.FuzzyScaleSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.GraphForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MainForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.MFEdit.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ModelUserControl.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.NeuralSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.Properties.Resources.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ACLSettingsForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.SeriesSettingsForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.ShowTableForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.TermsForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Debug\FuzzyForecast.csproj.GenerateResource.Cache

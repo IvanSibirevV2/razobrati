@@ -1,0 +1,7 @@
+D:\Яндекс диск\YandexDiskGitServer000\Записки и HELP\КАК\КакUnitTestFish!!!\WindowsFormsApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Яндекс диск\YandexDiskGitServer000\Записки и HELP\КАК\КакUnitTestFish!!!\WindowsFormsApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Яндекс диск\YandexDiskGitServer000\Записки и HELP\КАК\КакUnitTestFish!!!\WindowsFormsApplication1\UnitTestProject1\bin\Debug\WindowsFormsApplication1.exe
+D:\Яндекс диск\YandexDiskGitServer000\Записки и HELP\КАК\КакUnitTestFish!!!\WindowsFormsApplication1\UnitTestProject1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Яндекс диск\YandexDiskGitServer000\Записки и HELP\КАК\КакUnitTestFish!!!\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Яндекс диск\YandexDiskGitServer000\Записки и HELP\КАК\КакUnitTestFish!!!\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Яндекс диск\YandexDiskGitServer000\Записки и HELP\КАК\КакUnitTestFish!!!\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

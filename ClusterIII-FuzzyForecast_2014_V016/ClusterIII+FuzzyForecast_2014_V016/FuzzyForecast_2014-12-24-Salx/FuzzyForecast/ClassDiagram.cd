@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FuzzyForecast.ACLScale" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABBAIiABGACjAAACEAgAQAIIAIxAAAIABAAAAAAAA=</HashCode>
+      <FileName>ACLScale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ACLSettingsForm" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAQFCkJCAAIBBKkAKABEED0IgAAcEEMQAAAlVgAAA=</HashCode>
+      <FileName>ACLSettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ACLTimeSeries" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAABAAAAAAAAAEAIAAUgAAAAAAQAIAAAAAAQAAAI=</HashCode>
+      <FileName>ACLTimeSeries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Calc" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAJAAACAAAAACAgABAAAAAAQAAAAAQEAJAAAAQQCA=</HashCode>
+      <FileName>CalcHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.CreatreTimeSeriesForm" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYkBACAACBIIAACgEAAiACMIoCJgBSAIBEAAkAA=</HashCode>
+      <FileName>CreatreTimeSeriesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Cluster" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACAAgAAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAA=</HashCode>
+      <FileName>DataClustering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.DataClustering" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAgA=</HashCode>
+      <FileName>DataClustering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.DForecastModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEACABBAgAAAAAAAACAABwAACAAAQQIABAIAFkAABA=</HashCode>
+      <FileName>DForecastModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FuzzyForecast.DrawHelper" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQAAAAAAAAAAQAAAACAAAAAAAACAgAAAAAAACAA=</HashCode>
+      <FileName>DrawHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ForecastHelper" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAgASQAEUAQEAAAAAAAAAAICAAAAAAAAAAAA=</HashCode>
+      <FileName>ForecastHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ExcessForecastModel" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAUACAAEAAAAAAAAQAAAACAAAEQAAAEAAAACIAA=</HashCode>
+      <FileName>ForecastHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FuncAttr" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAgBAAAAAAAAAAgAAIAAADAAAAAAAA=</HashCode>
+      <FileName>Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Interval" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACACAAACAEAAAAAAAAAAAAAEAEQAAAAAAAAAA=</HashCode>
+      <FileName>Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Series" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAAAQEgAAAUACAgAAAiAAAAAAAAAQBAAQAAABA=</HashCode>
+      <FileName>Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FuzzyScale" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BSAEIACGEREAAoEQEAEICAQBBEAEAYCBREBAAQGgAAA=</HashCode>
+      <FileName>FuzzyScale.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FuzzyForecast.FuzzyScaleSettingForm" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACABAACAAAAAgAAAQAAQAAAAAA=</HashCode>
+      <FileName>FuzzyScaleSettingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.TendMF" Collapsed="true">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAACEAACAAAAAAAAAEMAAAAACAABAACA=</HashCode>
+      <FileName>FuzzyTend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FuzzyTend" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAIAAAACACAFAAgACAAAEICAgEAgAIAQAAAAAAAAU=</HashCode>
+      <FileName>FuzzyTend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FTSPoint" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAAAAAAAAAAACAAAAAAAAAAAAEEAEAAAAAAAA=</HashCode>
+      <FileName>FuzzyTimeSeries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FuzzyTimeSeries" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAQAAAAAACKAAAACAAAAAAIgAAAAAAIAAAA=</HashCode>
+      <FileName>FuzzyTimeSeries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.GraphForm" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACCACAAAAAAIACAAAAaAAAAAUAAAAAACAIAAAA=</HashCode>
+      <FileName>GraphForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.MainForm" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PzVJXv2T9D91EAv/XuDi7bf+W0nuGZ2GNTb0/AcB+Vc=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.MFEdit" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAIYIChYCIABAKAAEDCRAICEAEAAgBAAAAEAAAIIAA=</HashCode>
+      <FileName>MFEditUserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ModelSettingForm" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAMACAAAIKAgHEAQAASgBAAGAAEQA0CBACAAAQkwAAA=</HashCode>
+      <FileName>ModelSettingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ModelUserControl" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAECBAAFACgsQAAYhECAAYaCCwMAgQRABFoAKAAAEAA=</HashCode>
+      <FileName>ModelUserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.NeuralTendForecastModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAFACAAAAoCAAAAAAACAQRwAQAAABQAAQRCIgDSAAgA=</HashCode>
+      <FileName>NeuralForecastModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FuzzyForecast.NeuralForecastModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAFAGABAAoCQAAAAAACAARwAQAAAAQQAARCIgXSAAAA=</HashCode>
+      <FileName>NeuralForecastModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FuzzyForecast.NeuralSettingForm" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LAEBCAAAIKCgHAAQAQaABAQGAAEQAwCBACAEIQEAQAA=</HashCode>
+      <FileName>NeuralSettingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Program" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ProgressForm" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQAGIAAEAAoQCEAAACBBEAAACABCCAgAAQAAA=</HashCode>
+      <FileName>ProgressForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Project" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEABACAEAAAAAAABAAAQBIIEAAAAEBABAAAhAAAM=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ModelSeries" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAEABAAEAAAAAAAACAAAAAAAACBAABAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.CompareRow" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAACAAAABBAAAAAAAAAAAAgEIABAAAAhAAAAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.CrispResultRow" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAgAAAgAAQE=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FuzzyResultRow" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAABAAAAAAAAACAAAAAEAAAAYAAAEAAAAQAAQE=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.CrispNResultRow" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAQE=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FuzzyNResultRow" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAACAAAAAAAAAAQAAAAAAAAQAAQE=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ErrorRow" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.FuzzyErrorRow" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABCAAgAAAAAQAAAAAAAAAABAAIAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.RuleRow" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.RuleMFRow" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Report&lt;TC, TF&gt;" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAACAgQAABABIAAgCgAgEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ModelResult" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQMAAAAAAFEAQCBFABAklUEAAAAACAAEqBACBQAAIA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ProjectSettingForm" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAACACABAACCAAAAAABAAAAAAEAACA=</HashCode>
+      <FileName>ProjectSettingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ReportForm" Collapsed="true">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.SaveReportForm" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAEAAAACAAAAAkAECABAASAAAAAAAAAAAEAAEAADA=</HashCode>
+      <FileName>SaveReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.SeriesSettingsForm" Collapsed="true">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAwiAAEAAEAACABAACAAAABQAAAAAAAAEAACA=</HashCode>
+      <FileName>SeriesSettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.ShowTableForm" Collapsed="true">
+    <Position X="3" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAABAgCABAACAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShowTableForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.SongForecastModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgEACgRBAgAAAgAAAACAABwQAAAAAwwIBBQIAFkABBA=</HashCode>
+      <FileName>SongForecastModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FuzzyForecast.TendForecastModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEACABBAgAUIowCAADBIhwAACgUASWIBBQIABkoBDA=</HashCode>
+      <FileName>TendForecastModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FuzzyForecast.TermsForm" Collapsed="true">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAACAIACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TermsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.TFuzzyTermInfo" Collapsed="true">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAABAAQAAIAAAAAAAEAAEAAAAAA=</HashCode>
+      <FileName>TFuzzyTermInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Properties.Resources" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgoAAACAAACAAABAAGABFAAAAREAAAAAAEAABBGGCIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyForecast.Properties.Settings" Collapsed="true">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FuzzyForecast.IFuzzyScale" Collapsed="true">
+    <Position X="4.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAEAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FuzzyForecast.IBaseForecastModel&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAgAAAAAAAACAABAAAAAAAQAAAAAAAAAAAgA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FuzzyForecast.IForecastModel" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACABAAgAAAAAAAACAABwAAAAAAQQAABAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FuzzyForecast.IFuzzyForecastModel" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FuzzyForecast.BaseTendType" Collapsed="true">
+    <Position X="3" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyForecast.FuzzificationMethod" Collapsed="true">
+    <Position X="8.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyForecast.ForecastModelType" Collapsed="true">
+    <Position X="4.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAgABAEAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyForecast.FunctionsTypes" Collapsed="true">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAAAAAAAAAAAEAAAAAAkABAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Functions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyForecast.IntervalBorderTypes" Collapsed="true">
+    <Position X="10" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Functions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

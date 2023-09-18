@@ -1,0 +1,15 @@
+D:\Мои документы\!Magister\Work\FuzzyForecast\NeuronLibrary\bin\Debug\NeuronLibrary.dll
+D:\Мои документы\!Magister\Work\FuzzyForecast\NeuronLibrary\bin\Debug\NeuronLibrary.pdb
+D:\Мои документы\!Magister\Work\FuzzyForecast\NeuronLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\!Magister\Work\FuzzyForecast\NeuronLibrary\obj\Debug\NeuronLibrary.dll
+D:\Мои документы\!Magister\Work\FuzzyForecast\NeuronLibrary\obj\Debug\NeuronLibrary.pdb
+D:\artem\Учеба\FuzzyForecast\NeuronLibrary\bin\Debug\NeuronLibrary.dll
+D:\artem\Учеба\FuzzyForecast\NeuronLibrary\bin\Debug\NeuronLibrary.pdb
+D:\artem\Учеба\FuzzyForecast\NeuronLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\artem\Учеба\FuzzyForecast\NeuronLibrary\obj\Debug\NeuronLibrary.dll
+D:\artem\Учеба\FuzzyForecast\NeuronLibrary\obj\Debug\NeuronLibrary.pdb
+E:\FuzzyForecast\NeuronLibrary\bin\Debug\NeuronLibrary.dll
+E:\FuzzyForecast\NeuronLibrary\bin\Debug\NeuronLibrary.pdb
+E:\FuzzyForecast\NeuronLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\FuzzyForecast\NeuronLibrary\obj\Debug\NeuronLibrary.dll
+E:\FuzzyForecast\NeuronLibrary\obj\Debug\NeuronLibrary.pdb

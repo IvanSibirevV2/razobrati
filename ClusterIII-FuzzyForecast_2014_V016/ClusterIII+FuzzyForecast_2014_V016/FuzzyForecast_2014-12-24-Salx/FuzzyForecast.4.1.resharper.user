@@ -1,0 +1,1265 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:ZedGraph.ZedGraphControl">
+      <Item value="GraphPane" priority="4" />
+      <Item value="Invalidate" priority="0" />
+      <Item value="SaveAsBitmap" priority="0" />
+      <Item value="GetImage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.PointPairList">
+      <Item value="Add" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="NextDouble" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="start" priority="1" />
+      <Item value="Count" priority="1" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Log" priority="0" />
+      <Item value="Abs" priority="5" />
+      <Item value="Max" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.GraphPane">
+      <Item value="YAxis" priority="1" />
+      <Item value="Title" priority="2" />
+      <Item value="XAxis" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.Scale">
+      <Item value="Max" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.Function">
+      <Item value="FuncionAttr" priority="0" />
+      <Item value="MaxValue" priority="0" />
+      <Item value="PointList" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.FuzzyTimeSeries">
+      <Item value="Scale" priority="2" />
+      <Item value="FuzzySeries" priority="13" />
+      <Item value="MF" priority="1" />
+      <Item value="IndexSeries" priority="3" />
+      <Item value="MeanSeries" priority="0" />
+      <Item value="Fuzzify" priority="1" />
+      <Item value="PointList" priority="2" />
+      <Item value="FTSPoints" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ACLScale">
+      <Item value="BaseScale" priority="2" />
+      <Item value="TendTypesScale" priority="2" />
+      <Item value="TendIntensityScale" priority="6" />
+      <Item value="TendBaseTypesScale" priority="6" />
+      <Item value="InnerSimpleFuzzification" priority="1" />
+      <Item value="ToXmlElement" priority="0" />
+      <Item value="FromXmlElement" priority="0" />
+      <Item value="GetBaseTendType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.FuzzyScale">
+      <Item value="Grades" priority="13" />
+      <Item value="GetTermWithMinMembership" priority="0" />
+      <Item value="GetTermIndex" priority="0" />
+      <Item value="Fuzzification" priority="0" />
+      <Item value="GetTermWithMaxMF" priority="3" />
+      <Item value="Min" priority="1" />
+      <Item value="Max" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="ToXmlElement" priority="0" />
+      <Item value="FormXmlElement" priority="0" />
+      <Item value="FromXmlElement" priority="0" />
+      <Item value="MaxNotExp" priority="0" />
+      <Item value="MinNotExp" priority="0" />
+      <Item value="GetTermIndexWithMaxMF" priority="1" />
+      <Item value="CountTerms" priority="0" />
+      <Item value="CountExtraTerms" priority="0" />
+      <Item value="FMethod" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.FuzzyVariable">
+      <Item value="Terms" priority="14" />
+      <Item value="Min" priority="2" />
+      <Item value="Max" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="115" />
+      <Item value="class" priority="7" />
+      <Item value="int" priority="30" />
+      <Item value="BackpropagationNetwork" priority="2" />
+      <Item value="bool" priority="12" />
+      <Item value="double" priority="58" />
+      <Item value="SPointList" priority="11" />
+      <Item value="void" priority="46" />
+      <Item value="pointList" priority="18" />
+      <Item value="string" priority="35" />
+      <Item value="Color" priority="8" />
+      <Item value="ZedGraphControl" priority="2" />
+      <Item value="graphControl" priority="11" />
+      <Item value="else" priority="20" />
+      <Item value="start" priority="2" />
+      <Item value="step" priority="4" />
+      <Item value="PointPairList" priority="2" />
+      <Item value="ref" priority="1" />
+      <Item value="PointPair" priority="8" />
+      <Item value="private" priority="56" />
+      <Item value="min" priority="11" />
+      <Item value="max" priority="3" />
+      <Item value="maxPP" priority="0" />
+      <Item value="FunctionsTypes" priority="0" />
+      <Item value="f" priority="3" />
+      <Item value="title" priority="0" />
+      <Item value="return" priority="51" />
+      <Item value="result" priority="8" />
+      <Item value="sum" priority="0" />
+      <Item value="FuzzyVariable" priority="3" />
+      <Item value="FuzzyTerm" priority="17" />
+      <Item value="ft" priority="1" />
+      <Item value="pointPairList" priority="2" />
+      <Item value="new" priority="67" />
+      <Item value="i" priority="23" />
+      <Item value="DrawPointList" priority="0" />
+      <Item value="color" priority="0" />
+      <Item value="foreach" priority="23" />
+      <Item value="fv" priority="3" />
+      <Item value="StepType" priority="0" />
+      <Item value="NeuralForesact" priority="0" />
+      <Item value="currentFuncion" priority="0" />
+      <Item value="CalcError" priority="0" />
+      <Item value="graphControlFTerms" priority="3" />
+      <Item value="acl" priority="2" />
+      <Item value="sm" priority="0" />
+      <Item value="SymbolType" priority="4" />
+      <Item value="symbolType" priority="0" />
+      <Item value="condition" priority="0" />
+      <Item value="if" priority="56" />
+      <Item value="_op" priority="0" />
+      <Item value="OperatorType" priority="0" />
+      <Item value="notOp" priority="0" />
+      <Item value="override" priority="2" />
+      <Item value="Condition" priority="0" />
+      <Item value="Conclusion" priority="0" />
+      <Item value="rules" priority="2" />
+      <Item value="rule" priority="1" />
+      <Item value="ruleString" priority="1" />
+      <Item value="rulesCounts" priority="2" />
+      <Item value="Dictionary&lt;string,MamdaniFuzzyRule&gt;" priority="0" />
+      <Item value="Dictionary&lt;string,int&gt;" priority="0" />
+      <Item value="omitCount" priority="9" />
+      <Item value="MAPE" priority="0" />
+      <Item value="actual" priority="10" />
+      <Item value="forecast" priority="6" />
+      <Item value="graphControlTends" priority="0" />
+      <Item value="listViewStatistic" priority="5" />
+      <Item value="lvi" priority="12" />
+      <Item value="fts" priority="1" />
+      <Item value="pts" priority="1" />
+      <Item value="ACLTimeSeries" priority="9" />
+      <Item value="ats" priority="9" />
+      <Item value="var" priority="83" />
+      <Item value="FTS" priority="5" />
+      <Item value="Intensity" priority="1" />
+      <Item value="tend" priority="4" />
+      <Item value="intensityMF" priority="1" />
+      <Item value="FieldAccessException" priority="0" />
+      <Item value="Scale" priority="8" />
+      <Item value="TendIntensityScale" priority="3" />
+      <Item value="DrawGraphHelper" priority="1" />
+      <Item value="this" priority="8" />
+      <Item value="Text" priority="0" />
+      <Item value="for" priority="7" />
+      <Item value="points" priority="1" />
+      <Item value="listViewPoints" priority="1" />
+      <Item value="Function" priority="0" />
+      <Item value="sPointList" priority="3" />
+      <Item value="SPoint" priority="16" />
+      <Item value="EditNames" priority="0" />
+      <Item value="List" priority="38" />
+      <Item value="List&lt;int&gt;" priority="2" />
+      <Item value="DiffIndexList" priority="1" />
+      <Item value="Grades" priority="2" />
+      <Item value="index" priority="4" />
+      <Item value="baseType" priority="0" />
+      <Item value="BaseType" priority="1" />
+      <Item value="BaseTendType" priority="4" />
+      <Item value="switch" priority="7" />
+      <Item value="List&lt;FuzzyTerm&gt;" priority="0" />
+      <Item value="TriangularMembershipFunction" priority="0" />
+      <Item value="Double" priority="0" />
+      <Item value="FuzzyScale" priority="9" />
+      <Item value="intervals" priority="0" />
+      <Item value="x2" priority="1" />
+      <Item value="iLength" priority="1" />
+      <Item value="TrapezoidMembershipFunction" priority="4" />
+      <Item value="TendBaseTypesScale" priority="4" />
+      <Item value="FuzzyTend" priority="8" />
+      <Item value="point" priority="7" />
+      <Item value="bft" priority="0" />
+      <Item value="graphControlTerms" priority="0" />
+      <Item value="graphControlTTend" priority="0" />
+      <Item value="expCoef" priority="1" />
+      <Item value="const" priority="0" />
+      <Item value="List&lt;SPointList&gt;" priority="1" />
+      <Item value="pointLists" priority="2" />
+      <Item value="indexesSPL" priority="1" />
+      <Item value="FuzzySeries" priority="1" />
+      <Item value="throw" priority="1" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="List&lt;double&gt;" priority="2" />
+      <Item value="MeanSeries" priority="1" />
+      <Item value="GetHashCode" priority="0" />
+      <Item value="toolStripComboBoxSeries" priority="1" />
+      <Item value="spl" priority="1" />
+      <Item value="graphControlStat" priority="1" />
+      <Item value="Title" priority="0" />
+      <Item value="GraphForm" priority="3" />
+      <Item value="YName" priority="1" />
+      <Item value="XName" priority="2" />
+      <Item value="ACL" priority="3" />
+      <Item value="mfEditTends" priority="0" />
+      <Item value="Generate" priority="0" />
+      <Item value="ACLSettingsForm" priority="1" />
+      <Item value="asf" priority="0" />
+      <Item value="DialogResult" priority="9" />
+      <Item value="static" priority="5" />
+      <Item value="diff" priority="5" />
+      <Item value="maxDiff" priority="1" />
+      <Item value="ACLScale" priority="5" />
+      <Item value="tmf" priority="1" />
+      <Item value="Name" priority="3" />
+      <Item value="X1" priority="3" />
+      <Item value="X2" priority="4" />
+      <Item value="X4" priority="2" />
+      <Item value="terms" priority="0" />
+      <Item value="mfEdit" priority="0" />
+      <Item value="scaleName" priority="0" />
+      <Item value="graphControlBaseScale" priority="2" />
+      <Item value="DrawHelper" priority="2" />
+      <Item value="ScaleName" priority="0" />
+      <Item value="FuzzyScaleSettingForm" priority="1" />
+      <Item value="tabControlScales" priority="0" />
+      <Item value="fssFrom" priority="0" />
+      <Item value="List&lt;Series&gt;" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="forecastModel" priority="1" />
+      <Item value="ForecastForm" priority="0" />
+      <Item value="currentResult" priority="13" />
+      <Item value="columnName" priority="0" />
+      <Item value="list" priority="7" />
+      <Item value="s" priority="10" />
+      <Item value="tnMS" priority="1" />
+      <Item value="currentProject" priority="13" />
+      <Item value="Project" priority="16" />
+      <Item value="name" priority="2" />
+      <Item value="ModelSeries" priority="10" />
+      <Item value="ms" priority="7" />
+      <Item value="Series" priority="17" />
+      <Item value="series" priority="11" />
+      <Item value="true" priority="10" />
+      <Item value="SetSeriesSettings" priority="0" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="Dictionary&lt;ForecastModelType,ModelResult&gt;" priority="0" />
+      <Item value="ModelResult" priority="36" />
+      <Item value="Model" priority="1" />
+      <Item value="ForecastModelType" priority="4" />
+      <Item value="List&lt;List&lt;string&gt;&gt;" priority="0" />
+      <Item value="tnMR" priority="1" />
+      <Item value="graphControlSeries" priority="2" />
+      <Item value="muc" priority="6" />
+      <Item value="null" priority="14" />
+      <Item value="ModelUserControl" priority="2" />
+      <Item value="TabPage" priority="4" />
+      <Item value="tabControlGraphs" priority="12" />
+      <Item value="tp" priority="1" />
+      <Item value="DockStyle" priority="0" />
+      <Item value="currentSeries" priority="15" />
+      <Item value="while" priority="4" />
+      <Item value="modelResult" priority="13" />
+      <Item value="AddModelControl" priority="0" />
+      <Item value="Result" priority="5" />
+      <Item value="NumberInput" priority="1" />
+      <Item value="numberInput" priority="1" />
+      <Item value="numberHidden" priority="1" />
+      <Item value="ShowModel" priority="0" />
+      <Item value="TreeNode" priority="3" />
+      <Item value="sel" priority="9" />
+      <Item value="ShowCurrentSeries" priority="3" />
+      <Item value="TabControl" priority="0" />
+      <Item value="as" priority="5" />
+      <Item value="selected" priority="2" />
+      <Item value="tabPageTTend" priority="0" />
+      <Item value="tabPage" priority="0" />
+      <Item value="break" priority="6" />
+      <Item value="SelectModel" priority="0" />
+      <Item value="tabPageGraph" priority="0" />
+      <Item value="tabControl" priority="0" />
+      <Item value="splitContainerMain" priority="0" />
+      <Item value="e" priority="5" />
+      <Item value="mr" priority="3" />
+      <Item value="SelectedTabPage" priority="0" />
+      <Item value="SelectTabPage" priority="0" />
+      <Item value="splitContainerTop" priority="0" />
+      <Item value="SystemColors" priority="0" />
+      <Item value="toolStripComboBoxSeriesList" priority="2" />
+      <Item value="treeViewSeries" priority="3" />
+      <Item value="node" priority="0" />
+      <Item value="foundNode" priority="1" />
+      <Item value="toolStripStat" priority="0" />
+      <Item value="ShowTableForm" priority="0" />
+      <Item value="newPointList" priority="3" />
+      <Item value="PointList" priority="4" />
+      <Item value="listViewSeries" priority="4" />
+      <Item value="object" priority="0" />
+      <Item value="ListViewItem" priority="0" />
+      <Item value="item" priority="4" />
+      <Item value="deleted" priority="0" />
+      <Item value="editNames" priority="0" />
+      <Item value="xmlDocument" priority="23" />
+      <Item value="xmlElementModel" priority="1" />
+      <Item value="XmlElement" priority="10" />
+      <Item value="parent" priority="0" />
+      <Item value="XmlDocument" priority="8" />
+      <Item value="xmlElement" priority="35" />
+      <Item value="count" priority="0" />
+      <Item value="noise" priority="0" />
+      <Item value="spread" priority="0" />
+      <Item value="StreamWriter" priority="1" />
+      <Item value="fileName" priority="0" />
+      <Item value="try" priority="3" />
+      <Item value="catch" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="sw" priority="3" />
+      <Item value="xmlElementPoint" priority="1" />
+      <Item value="NamedValueImpl" priority="0" />
+      <Item value="ie" priority="1" />
+      <Item value="sPoint" priority="3" />
+      <Item value="xmlNodePoint" priority="0" />
+      <Item value="out" priority="2" />
+      <Item value="pList" priority="0" />
+      <Item value="ModelType" priority="2" />
+      <Item value="xmlElementOrder" priority="0" />
+      <Item value="ForecastModel" priority="12" />
+      <Item value="NeuralForecastModel" priority="2" />
+      <Item value="XmlNodeList" priority="3" />
+      <Item value="xmlNodeList" priority="5" />
+      <Item value="Refresh" priority="1" />
+      <Item value="SongForecastModel" priority="3" />
+      <Item value="aclSeries" priority="2" />
+      <Item value="order" priority="2" />
+      <Item value="fCount" priority="2" />
+      <Item value="hidden" priority="0" />
+      <Item value="Results" priority="0" />
+      <Item value="Min" priority="0" />
+      <Item value="MinNotExp" priority="0" />
+      <Item value="MaxNotExp" priority="0" />
+      <Item value="CoefLengthTop" priority="0" />
+      <Item value="xmlElementTerm" priority="0" />
+      <Item value="term" priority="2" />
+      <Item value="xmlElementGrades" priority="0" />
+      <Item value="IEnumerator" priority="1" />
+      <Item value="termName" priority="0" />
+      <Item value="X3" priority="1" />
+      <Item value="BaseScale" priority="4" />
+      <Item value="NewLineHandling" priority="0" />
+      <Item value="ACLSeries" priority="7" />
+      <Item value="aclScale" priority="2" />
+      <Item value="xmlElementSeries" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="FileName" priority="0" />
+      <Item value="File" priority="0" />
+      <Item value="textBoxName" priority="0" />
+      <Item value="buttonOK" priority="0" />
+      <Item value="SaveFileDialog" priority="2" />
+      <Item value="saveFileDialog" priority="4" />
+      <Item value="MessageBox" priority="2" />
+      <Item value="MessageBoxButtons" priority="1" />
+      <Item value="SaveQuestion" priority="0" />
+      <Item value="ProjectSettingForm" priority="0" />
+      <Item value="psf" priority="2" />
+      <Item value="ClearSeriesShow" priority="0" />
+      <Item value="FileDialogCustomPlace" priority="0" />
+      <Item value="openFileDialogProject" priority="0" />
+      <Item value="AddNewProject" priority="1" />
+      <Item value="Exception" priority="0" />
+      <Item value="ex" priority="1" />
+      <Item value="projectName" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="LoadModelSeries" priority="0" />
+      <Item value="IDataGridEditingService" priority="0" />
+      <Item value="addToProject" priority="1" />
+      <Item value="imageListTree" priority="0" />
+      <Item value="AddModelSeries" priority="0" />
+      <Item value="NewProject" priority="0" />
+      <Item value="LoadProject" priority="0" />
+      <Item value="SaveProject" priority="1" />
+      <Item value="showDialog" priority="0" />
+      <Item value="Close" priority="2" />
+      <Item value="AddToTabs" priority="0" />
+      <Item value="currentModelSeriesTN" priority="1" />
+      <Item value="SaveSeries" priority="0" />
+      <Item value="SeriesSettingsForm" priority="0" />
+      <Item value="ssf" priority="3" />
+      <Item value="sfm" priority="1" />
+      <Item value="toolStripComboBoxRules" priority="0" />
+      <Item value="listViewRules" priority="0" />
+      <Item value="valuePair" priority="0" />
+      <Item value="IForecastModel" priority="1" />
+      <Item value="TendForecastModel" priority="1" />
+      <Item value="fm" priority="3" />
+      <Item value="ArgumentNullException" priority="0" />
+      <Item value="RForecast" priority="2" />
+      <Item value="PointLists" priority="0" />
+      <Item value="Math" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Xml" priority="1" />
+      <Item value="XmlSerializer" priority="2" />
+      <Item value="writer" priority="2" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="TFuzzyTermInfo" priority="0" />
+      <Item value="ResultTable" priority="0" />
+      <Item value="rt" priority="0" />
+      <Item value="BaseModelRow" priority="2" />
+      <Item value="ForecastHelper" priority="0" />
+      <Item value="rows" priority="1" />
+      <Item value="row" priority="37" />
+      <Item value="MeanFT" priority="1" />
+      <Item value="MF" priority="4" />
+      <Item value="Time" priority="0" />
+      <Item value="FT" priority="0" />
+      <Item value="Error" priority="0" />
+      <Item value="RError" priority="0" />
+      <Item value="NeuralResultRow" priority="1" />
+      <Item value="Diff" priority="0" />
+      <Item value="TTend" priority="3" />
+      <Item value="TTend2" priority="0" />
+      <Item value="RTend" priority="1" />
+      <Item value="ModelTTend" priority="0" />
+      <Item value="ModelRTend" priority="0" />
+      <Item value="ModelDiff" priority="0" />
+      <Item value="finally" priority="0" />
+      <Item value="tr" priority="0" />
+      <Item value="XmlSerializationWriter" priority="1" />
+      <Item value="XmlRootAttribute" priority="1" />
+      <Item value="xra" priority="0" />
+      <Item value="MemoryStream" priority="1" />
+      <Item value="msS" priority="1" />
+      <Item value="Encoding" priority="1" />
+      <Item value="xmlDocumentS" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Xsl" priority="0" />
+      <Item value="XslCompiledTransform" priority="3" />
+      <Item value="xslCT" priority="1" />
+      <Item value="xslt" priority="0" />
+      <Item value="xmlDS" priority="0" />
+      <Item value="XmlWriter" priority="0" />
+      <Item value="XmlWriterSettings" priority="2" />
+      <Item value="xmlWriterSettings" priority="2" />
+      <Item value="webBrowser" priority="0" />
+      <Item value="url" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="checkBoxShow" priority="0" />
+      <Item value="ReportForm" priority="0" />
+      <Item value="actualCount" priority="3" />
+      <Item value="x1" priority="0" />
+      <Item value="x4" priority="0" />
+      <Item value="SplitPrecent" priority="0" />
+      <Item value="sPrecent" priority="0" />
+      <Item value="BaseResultRow" priority="0" />
+      <Item value="Report" priority="2" />
+      <Item value="report" priority="6" />
+      <Item value="GetBaseRows" priority="0" />
+      <Item value="ErrorRow" priority="7" />
+      <Item value="errors" priority="4" />
+      <Item value="GetErrorRow" priority="1" />
+      <Item value="iActual" priority="0" />
+      <Item value="iForecast" priority="0" />
+      <Item value="splitPrecent" priority="0" />
+      <Item value="ErrorsRows" priority="1" />
+      <Item value="GetErrors" priority="0" />
+      <Item value="RuleRow" priority="1" />
+      <Item value="rr" priority="1" />
+      <Item value="rulesRows" priority="1" />
+      <Item value="GetRules" priority="0" />
+      <Item value="numerator" priority="1" />
+      <Item value="denominator" priority="0" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="iNames" priority="0" />
+      <Item value="crisps" priority="1" />
+      <Item value="mf" priority="2" />
+      <Item value="c1" priority="0" />
+      <Item value="ift" priority="1" />
+      <Item value="IMembershipFunctionExt" priority="0" />
+      <Item value="CalculatedCrisp" priority="1" />
+      <Item value="crisp" priority="1" />
+      <Item value="inputs" priority="1" />
+      <Item value="index2" priority="0" />
+      <Item value="index1" priority="0" />
+      <Item value="term1" priority="0" />
+      <Item value="term2" priority="0" />
+      <Item value="mf2" priority="0" />
+      <Item value="mf1" priority="0" />
+      <Item value="FTSPoint" priority="8" />
+      <Item value="List&lt;FTSPoint&gt;" priority="1" />
+      <Item value="Mean" priority="0" />
+      <Item value="ftsPoint" priority="5" />
+      <Item value="FTSPoints" priority="1" />
+      <Item value="pt1" priority="7" />
+      <Item value="pt2" priority="3" />
+      <Item value="Type" priority="0" />
+      <Item value="IntensityMF" priority="0" />
+      <Item value="Start" priority="0" />
+      <Item value="End" priority="0" />
+      <Item value="Tends" priority="0" />
+      <Item value="tTend" priority="0" />
+      <Item value="TendDiffScale" priority="0" />
+      <Item value="maxTend" priority="0" />
+      <Item value="CalcDiff" priority="0" />
+      <Item value="endPoint" priority="0" />
+      <Item value="AddDForecastModel" priority="0" />
+      <Item value="mean" priority="2" />
+      <Item value="values" priority="0" />
+      <Item value="isStopping" priority="0" />
+      <Item value="args" priority="1" />
+      <Item value="Backpropagation" priority="0" />
+      <Item value="bn" priority="0" />
+      <Item value="network" priority="3" />
+      <Item value="cycles" priority="1" />
+      <Item value="TrainingEpochEventHandler" priority="0" />
+      <Item value="OnEndSample" priority="0" />
+      <Item value="StopLearning" priority="0" />
+      <Item value="Network" priority="1" />
+      <Item value="pf" priority="1" />
+      <Item value="TrainingSet" priority="0" />
+      <Item value="trainingSet" priority="2" />
+      <Item value="delegate" priority="0" />
+      <Item value="learn" priority="0" />
+      <Item value="nsf" priority="0" />
+      <Item value="layer" priority="0" />
+      <Item value="Dec" priority="0" />
+      <Item value="Inc" priority="0" />
+      <Item value="List&lt;FuzzyTend&gt;" priority="0" />
+      <Item value="TendMF" priority="0" />
+      <Item value="DeNorm" priority="0" />
+      <Item value="Calc" priority="2" />
+      <Item value="model" priority="0" />
+      <Item value="tfm" priority="4" />
+      <Item value="FuzzyTimeSeries" priority="1" />
+      <Item value="MSeries" priority="0" />
+      <Item value="dfm" priority="0" />
+      <Item value="forecastCrisp" priority="0" />
+      <Item value="ftsR" priority="0" />
+      <Item value="TActual" priority="1" />
+      <Item value="DForecastModel" priority="0" />
+      <Item value="SRTendModel" priority="2" />
+      <Item value="actualT" priority="1" />
+      <Item value="actualR" priority="1" />
+      <Item value="forecastT" priority="1" />
+      <Item value="forecastR" priority="1" />
+      <Item value="ResultsCrisp" priority="0" />
+      <Item value="aclForecast" priority="1" />
+      <Item value="RActual" priority="0" />
+      <Item value="STTendModel" priority="0" />
+      <Item value="diffs" priority="2" />
+      <Item value="Actual" priority="0" />
+      <Item value="GetTTendsFuzzy" priority="0" />
+      <Item value="GetReportF2S" priority="2" />
+      <Item value="GetReportF1N" priority="0" />
+      <Item value="CrispNResultRow" priority="0" />
+      <Item value="FuzzyNResultRow" priority="0" />
+      <Item value="CrispResultRow" priority="0" />
+      <Item value="FuzzyResultRow" priority="0" />
+      <Item value="ModelReport" priority="3" />
+      <Item value="SeriesReport" priority="0" />
+      <Item value="GetResultsCrisp" priority="0" />
+      <Item value="songModel" priority="0" />
+      <Item value="tabControlInfo" priority="0" />
+      <Item value="List&lt;TC&gt;" priority="0" />
+      <Item value="List&lt;TF&gt;" priority="0" />
+      <Item value="List&lt;ErrorRow&gt;" priority="0" />
+      <Item value="List&lt;FuzzyErrorRow&gt;" priority="0" />
+      <Item value="List&lt;RuleRow&gt;" priority="2" />
+      <Item value="FillErrorsGroup" priority="0" />
+      <Item value="FillFuzzyErrors" priority="0" />
+      <Item value="GenericFuzzySystem" priority="0" />
+      <Item value="DefuzzificationMethod" priority="0" />
+      <Item value="Rules" priority="0" />
+      <Item value="strings" priority="2" />
+      <Item value="Predicate&lt;string&gt;" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.PointPair">
+      <Item value="Z" priority="0" />
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.Function">
+      <Item value="GetMaxMin" priority="0" />
+      <Item value="ToPointPairList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.SPointList">
+      <Item value="FindMax" priority="0" />
+      <Item value="FindMin" priority="3" />
+      <Item value="Count" priority="2" />
+      <Item value="Title" priority="5" />
+      <Item value="XName" priority="7" />
+      <Item value="YName" priority="5" />
+      <Item value="Add" priority="9" />
+      <Item value="Name" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.SPoint">
+      <Item value="Y" priority="8" />
+      <Item value="ToString" priority="1" />
+      <Item value="X" priority="9" />
+      <Item value="Clone" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.FuzzyTerm">
+      <Item value="MembershipFunction" priority="8" />
+      <Item value="Name" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.IMembershipFunction">
+      <Item value="GetValue" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="8" />
+      <Item value="Add" priority="29" />
+      <Item value="IndexOf" priority="0" />
+      <Item value="Clear" priority="1" />
+      <Item value="AddRange" priority="0" />
+      <Item value="Remove" priority="0" />
+      <Item value="RemoveAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.CalcError">
+      <Item value="MSE" priority="0" />
+      <Item value="MAPE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.SongForecastModelFTS">
+      <Item value="fvInput" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="1" />
+      <Item value="Blue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZedGraph.SymbolType">
+      <Item value="Default" priority="2" />
+      <Item value="None" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.ICondition">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyLibrary.OperatorType">
+      <Item value="And" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.Conditions">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add" priority="1" />
+      <Item value="ContainsKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.MamdaniFuzzyRule">
+      <Item value="ToString" priority="1" />
+      <Item value="MF" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.SongForecastModel">
+      <Item value="Order" priority="0" />
+      <Item value="FTS" priority="2" />
+      <Item value="rulesCounts" priority="4" />
+      <Item value="GetForecastSeries" priority="1" />
+      <Item value="RulesCounts" priority="1" />
+      <Item value="RulesMap" priority="0" />
+      <Item value="ActualFuzzy" priority="0" />
+      <Item value="GetFuzzyForecastSeries" priority="0" />
+      <Item value="ACLSeries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.NeuralForecastModel">
+      <Item value="NumberInput" priority="0" />
+      <Item value="NumberHidden" priority="1" />
+      <Item value="GetForecastSeries" priority="0" />
+      <Item value="Actual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView">
+      <Item value="Items" priority="8" />
+      <Item value="Clear" priority="1" />
+      <Item value="Columns" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+ListViewItemCollection">
+      <Item value="Add" priority="3" />
+      <Item value="Clear" priority="2" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem">
+      <Item value="SubItems" priority="9" />
+      <Item value="Tag" priority="2" />
+      <Item value="Checked" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem+ListViewSubItemCollection">
+      <Item value="Add" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString" priority="19" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ACLTimeSeries">
+      <Item value="FTS" priority="8" />
+      <Item value="DiffPointList" priority="2" />
+      <Item value="Tends" priority="2" />
+      <Item value="Scale" priority="6" />
+      <Item value="MakeModel" priority="0" />
+      <Item value="GetReport" priority="1" />
+      <Item value="TTends" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.FuzzyTend">
+      <Item value="Type" priority="0" />
+      <Item value="Intensity" priority="0" />
+      <Item value="IntensityMF" priority="0" />
+      <Item value="BaseType" priority="1" />
+      <Item value="FBaseType" priority="2" />
+      <Item value="CalculatedCrisp" priority="1" />
+      <Item value="TendTypeMFs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.GraphForm">
+      <Item value="Text" priority="0" />
+      <Item value="points" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.XAxis">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.YAxis">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.AxisLabel">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.DrawGraphHelper">
+      <Item value="DrawPointList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.BaseTendType">
+      <Item value="Stability" priority="0" />
+      <Item value="Increase" priority="0" />
+      <Item value="Decrease" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.FuzzyScale">
+      <Item value="MakeIntervals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.Interval">
+      <Item value="Mean" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.FuzzyTend">
+      <Item value="GetBaseTTendTerms" priority="0" />
+      <Item value="GetTendType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripComboBox">
+      <Item value="Items" priority="3" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="SelectedItem" priority="1" />
+      <Item value="SelectedText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Add" priority="2" />
+      <Item value="Clear" priority="1" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.DrawHelper">
+      <Item value="DrawPointList" priority="0" />
+      <Item value="CleanseGraph" priority="3" />
+      <Item value="DrawFuzzyTerms" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.Label">
+      <Item value="IsVisible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.MFEdit">
+      <Item value="Set" priority="1" />
+      <Item value="GetTerms" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ACLSettingsForm">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="ACLSeries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.ACLScale">
+      <Item value="GetMaxTendCrisp" priority="0" />
+      <Item value="typesNamesDefault" priority="0" />
+      <Item value="intensityNamesDefault" priority="0" />
+      <Item value="GetMaxDiff" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.TrapezoidMembershipFunction">
+      <Item value="X1" priority="0" />
+      <Item value="X3" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.TFuzzyTermInfo">
+      <Item value="CreateTerm" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="SelectedIndex" priority="3" />
+      <Item value="TabPages" priority="11" />
+      <Item value="SelectTab" priority="4" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.FuzzyScaleSettingForm">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="GetTerms" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.ForecastModel">
+      <Item value="Tend" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+ColumnHeaderCollection">
+      <Item value="Clear" priority="0" />
+      <Item value="AddRange" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ModelResult">
+      <Item value="ColumnNames" priority="2" />
+      <Item value="Results" priority="2" />
+      <Item value="PointLists" priority="0" />
+      <Item value="NameOfModel" priority="3" />
+      <Item value="ModelType" priority="2" />
+      <Item value="ForecastModel" priority="7" />
+      <Item value="ToXmlElement" priority="0" />
+      <Item value="FromXmlElement" priority="0" />
+      <Item value="GetBaseRows" priority="0" />
+      <Item value="GetBaseReport" priority="0" />
+      <Item value="ModelReport" priority="3" />
+      <Item value="SeriesReport" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.Series">
+      <Item value="PointList" priority="8" />
+      <Item value="Tag" priority="1" />
+      <Item value="ToXmlElement" priority="0" />
+      <Item value="FormXmlElement" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ModelSeries">
+      <Item value="series" priority="6" />
+      <Item value="Results" priority="4" />
+      <Item value="ToXmlElement" priority="0" />
+      <Item value="FromXmlElement" priority="0" />
+      <Item value="Set" priority="0" />
+      <Item value="ACLSeries" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNode">
+      <Item value="Tag" priority="6" />
+      <Item value="Nodes" priority="4" />
+      <Item value="ImageIndex" priority="6" />
+      <Item value="Parent" priority="2" />
+      <Item value="ExpandAll" priority="1" />
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeCollection">
+      <Item value="Add" priority="4" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.ForecastModelType">
+      <Item value="None" priority="1" />
+      <Item value="Tend" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ModelUserControl">
+      <Item value="ShowModel" priority="3" />
+      <Item value="Dock" priority="1" />
+      <Item value="ShowGraphs" priority="0" />
+      <Item value="ShowResult" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl+TabPageCollection">
+      <Item value="Add" priority="1" />
+      <Item value="Count" priority="5" />
+      <Item value="RemoveAt" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabPage">
+      <Item value="Controls" priority="1" />
+      <Item value="Tag" priority="2" />
+      <Item value="TabIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
+      <Item value="Fill" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.IForecastModel">
+      <Item value="GetForecastSeries" priority="1" />
+      <Item value="Order" priority="2" />
+      <Item value="ForecastCount" priority="0" />
+      <Item value="SplitPrecent" priority="1" />
+      <Item value="GetReport" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitContainer">
+      <Item value="Panel2Collapsed" priority="0" />
+      <Item value="Panel2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControlEventArgs">
+      <Item value="TabPage" priority="0" />
+      <Item value="TabPageIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.Project">
+      <Item value="seriesList" priority="1" />
+      <Item value="CheckFileName" priority="0" />
+      <Item value="Name" priority="3" />
+      <Item value="FileName" priority="1" />
+      <Item value="SaveXmlDocument" priority="0" />
+      <Item value="WasChanged" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitterPanel">
+      <Item value="BackColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.SystemColors">
+      <Item value="Control" priority="0" />
+      <Item value="ControlDark" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeView">
+      <Item value="Nodes" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStrip">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ShowTableForm">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="CreateElement" priority="9" />
+      <Item value="Load" priority="0" />
+      <Item value="Save" priority="0" />
+      <Item value="ChildNodes" priority="0" />
+      <Item value="DocumentElement" priority="1" />
+      <Item value="AppendChild" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlElement">
+      <Item value="AppendChild" priority="8" />
+      <Item value="SetAttribute" priority="8" />
+      <Item value="GetAttribute" priority="5" />
+      <Item value="InnerText" priority="1" />
+      <Item value="GetElementsByTagName" priority="3" />
+      <Item value="Name" priority="0" />
+      <Item value="InnerXml" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="TryParse" priority="1" />
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="Default" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="WriteLine" priority="2" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IEnumerator">
+      <Item value="Current" priority="4" />
+      <Item value="MoveNext" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.Project">
+      <Item value="AddFieldElement" priority="4" />
+      <Item value="GetFieldElement" priority="3" />
+      <Item value="GetXmlElement" priority="4" />
+      <Item value="SaveToXML" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="GetEnumerator" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="FileName" priority="4" />
+      <Item value="ShowDialog" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OKCancel" priority="0" />
+      <Item value="YesNo" priority="0" />
+      <Item value="YesNoCancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Question" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="1" />
+      <Item value="No" priority="0" />
+      <Item value="Yes" priority="0" />
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ProjectSettingForm">
+      <Item value="Set" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="ProjectName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FormClosingEventArgs">
+      <Item value="Cancel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.Series">
+      <Item value="Save" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.SeriesSettingsForm">
+      <Item value="SeriesName" priority="0" />
+      <Item value="XName" priority="1" />
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.TendForecastModel">
+      <Item value="STTendModel" priority="1" />
+      <Item value="CalcDiff" priority="0" />
+      <Item value="ModelType" priority="2" />
+      <Item value="NTendModel" priority="0" />
+      <Item value="GetTTendsFuzzy" priority="0" />
+      <Item value="N3TendModel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Serialize" priority="0" />
+      <Item value="Deserialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.MainForm+ResultTable">
+      <Item value="Columns" priority="0" />
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Close" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextReader">
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="Close" priority="0" />
+      <Item value="Flush" priority="0" />
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Xsl.XslCompiledTransform">
+      <Item value="TemporaryFiles" priority="0" />
+      <Item value="Load" priority="0" />
+      <Item value="Transform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlWriter">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriterSettings">
+      <Item value="Encoding" priority="0" />
+      <Item value="Indent" priority="0" />
+      <Item value="NewLineChars" priority="0" />
+      <Item value="OmitXmlDeclaration" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.WebBrowser">
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.SaveReportForm">
+      <Item value="ReportShow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ReportForm">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.Report`1">
+      <Item value="Result" priority="0" />
+      <Item value="Errors" priority="0" />
+      <Item value="RuleSeries" priority="0" />
+      <Item value="RuleTTend" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ErrorRow">
+      <Item value="MSE" priority="1" />
+      <Item value="ToString" priority="0" />
+      <Item value="MAPE" priority="0" />
+      <Item value="R2" priority="0" />
+      <Item value="RMSE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.RuleRow">
+      <Item value="Number" priority="1" />
+      <Item value="Rule" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyLibrary.IMembershipFunctionExt">
+      <Item value="GetCrisp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.FTSPoint">
+      <Item value="Mean" priority="0" />
+      <Item value="MF" priority="2" />
+      <Item value="point" priority="1" />
+      <Item value="Index" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ForecastModelType">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ProgressForm">
+      <Item value="network" priority="0" />
+      <Item value="cycles" priority="0" />
+      <Item value="Show" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NeuronDotNet.Core.Backpropagation.BackpropagationNetwork">
+      <Item value="EndEpochEvent" priority="0" />
+      <Item value="EndSampleEvent" priority="0" />
+      <Item value="StopLearning" priority="0" />
+      <Item value="JitterEpoch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.ProgressForm+LearnDelegate">
+      <Item value="BeginInvoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.NeuralSettingForm">
+      <Item value="NotChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.TendMF">
+      <Item value="ToArray" priority="0" />
+      <Item value="GetFuzzyTerm" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.Calc">
+      <Item value="DFormat" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.FuzzyResultRow">
+      <Item value="ModelTTend" priority="0" />
+      <Item value="ModelRTend" priority="1" />
+      <Item value="TTend" priority="1" />
+      <Item value="RTend" priority="0" />
+      <Item value="FT" priority="0" />
+      <Item value="ModelFT" priority="0" />
+      <Item value="FTError" priority="0" />
+      <Item value="TError" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.Report`2">
+      <Item value="RuleRTend" priority="1" />
+      <Item value="RuleTTend" priority="0" />
+      <Item value="ResultCrisp" priority="1" />
+      <Item value="PointLists" priority="2" />
+      <Item value="Errors" priority="1" />
+      <Item value="RuleMFSeries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyForecast.ModelResult">
+      <Item value="GetRules" priority="2" />
+      <Item value="FillCrispRowsNone" priority="0" />
+      <Item value="FillFuzzyRowsNone" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.CrispResultRow">
+      <Item value="Time" priority="0" />
+      <Item value="Series" priority="0" />
+      <Item value="Model" priority="0" />
+      <Item value="ModelDiff" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuzzyForecast.FuzzyErrorRow">
+      <Item value="FPE" priority="0" />
+      <Item value="TTendFPE" priority="0" />
+      <Item value="TTendFCE" priority="0" />
+      <Item value="RTendFPE" priority="0" />
+      <Item value="RTendFCE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyLibrary.GenericFuzzySystem">
+      <Item value="Defuzzify" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FuzzyLibrary.DefuzzificationMethod">
+      <Item value="Centroid" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:MainForm.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:CreatreTimeSeriesForm.cs" caret="0" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:SugenoVariable.cs" caret="226" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:SugenoFuzzySystem.cs" caret="0" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:InferenceMethod.cs" caret="195" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:RuleParser.cs" caret="252" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:MembershipFunction.cs" caret="511" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:FuzzyTerm.cs" caret="247" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:FuzzyVariable.cs" caret="2298" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:FuzzyRule.cs" caret="0" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:MamdaniFuzzySystem.cs" caret="2004" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:GenericFuzzySystem.cs" caret="720" scrollPosition="0|0" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:CreatreTimeSeriesForm.resx" caret="1561" scrollPosition="0|0" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:StatisticForm.cs" caret="422" scrollPosition="0|0" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:Functions.cs" caret="15343" scrollPosition="0|90" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:TimeSeries.cs" caret="3523" scrollPosition="0|376" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:PointList.cs" caret="360" scrollPosition="0|33" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:MainForm.cs" caret="4146" scrollPosition="0|76" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:DataClastering.cs" caret="4231" scrollPosition="0|112" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/d:Backpropagation/f:LogarithmLayer.cs" caret="0" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:ISynapse.cs" caret="2829" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:ILayer.cs" caret="6993" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:Network.cs" caret="9736" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/d:Backpropagation/f:BackpropagationNetwork.cs" caret="5894" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/d:Backpropagation/f:SigmoidLayer.cs" caret="2876" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:INeuron.cs" caret="3125" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/d:Backpropagation/f:ActivationNeuron.cs" caret="6202" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/d:Backpropagation/f:ActivationLayer.cs" caret="6213" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:Layer.cs" caret="13342" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/d:Backpropagation/f:BackpropagationSynapse.cs" caret="5033" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:TrainingSample.cs" caret="2078" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:Helper.cs" caret="8310" scrollPosition="0|0" />
+      <File id="D5B56684-0C33-4195-B3D6-D1576B739E42/f:TrainingSet.cs" caret="4161" scrollPosition="0|0" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:MainForm.cs" caret="386" scrollPosition="0|0" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:ProgressForm.cs" caret="345" scrollPosition="0|0" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:NeuralForecastModel.cs" caret="599" scrollPosition="0|6" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:FuzzyRule.cs" caret="191" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:FuzzyTerm.cs" caret="156" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:MamdaniFuzzySystem.cs" caret="0" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:InferenceMethod.cs" caret="0" scrollPosition="0|0" />
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:RuleParser.cs" caret="935" scrollPosition="0|22" />
+      <File id="251C06ED-CE98-4BAE-AA94-F8201BED23BC/f:ACLScale.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5FCE77C6-C989-49C7-B82B-6F4B7779558C/f:FuzzyTerm.cs" caret="139" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+</Configuration>

@@ -1,0 +1,621 @@
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+G:\Studies\!Magister\Work\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+E:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+E:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+E:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+E:\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+E:\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+E:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+E:\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+E:\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+E:\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+E:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+D:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+D:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+D:\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+D:\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+D:\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+D:\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+D:\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+D:\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+C:\Users\Дмитрий\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Диплом\57\FuzzyForecast\obj\Release\FuzzyForecast.exe
+C:\Users\Дмитрий\Desktop\Диплом\57\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\FuzzyForecast.exe
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\NeuronLibrary.dll
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\ZedGraph.dll
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\bin\Release\NeuronLibrary.xml
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.exe
+C:\Users\Дмитрий\Desktop\57\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+C:\Users\user\Desktop\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+X:\Т о не ря н\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.read.4.tlog
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.read.1.tlog
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Admin\Рабочий стол\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Просьба\FuzzyForecast\FuzzyForecast\FuzzyForecast\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csprojResolveAssemblyReference.cache
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.exe
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.dll
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\ZedGraph.dll
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\bin\Release\NeuronLibrary.xml
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\git\Projects 001\FuzzyForecast\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\Яндекс диск\YandexDiskGitServer000\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\Яндекс диск\YandexDiskGitServer000\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ZedGraph.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.xml
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.exe
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Web.Extensions.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.exe
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Web.Extensions.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ZedGraph.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\EpicVictoryV025\ClusterIII+FuzzyForecast_2014-12-24-SalxV001\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV026\ClusterIII+FuzzyForecast_2014-12-24-SalxV002\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+D:\EpicVictoryV026\ClusterIII+FuzzyForecast_2014-12-24-SalxV002\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\EpicVictoryV026\ClusterIII+FuzzyForecast_2014-12-24-SalxV002\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.exe
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Web.Extensions.dll
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ZedGraph.dll
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.pdb
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Web.Extensions.xml
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV003\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV004\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV004\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\EpicVictoryV028\ClusterIII+FuzzyForecast_2014-12-24-SalxV004\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.exe
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Web.Extensions.dll
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ZedGraph.dll
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.xml
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.exe
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Web.Extensions.dll
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.pdb
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.xml
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.Cache
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe.config
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.exe
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyForecast.pdb
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.exe
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.dll
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.dll
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Runtime.Serialization.dll
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\System.Web.Extensions.dll
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.pdb
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\ClusterIII.exe.config
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\FuzzyLogicLibrary.pdb
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.pdb
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\bin\Release\NeuronLibrary.xml
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.AssemblyReference.cache
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.AboutForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ComplexAnalysis.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FForecastModelSettings.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProgressFormForTend.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ReportForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SaveReportForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ProjectSettingForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelSettingForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.CreatreTimeSeriesForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.FuzzyScaleSettingForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.GraphForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MainForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.MFEdit.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ModelUserControl.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.NeuralSettingForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.Properties.Resources.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ACLSettingsForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.SeriesSettingsForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.ShowTableForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.TermsForm.resources
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.GenerateResource.cache
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.CoreCompileInputs.cache
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.csproj.CopyComplete
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.exe
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\FuzzyForecast\obj\Release\FuzzyForecast.pdb

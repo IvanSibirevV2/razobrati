@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyForecast", "FuzzyForecast\FuzzyForecast.csproj", "{251C06ED-CE98-4BAE-AA94-F8201BED23BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyLogicLibrary", "FuzzyLogicLibrary\FuzzyLogicLibrary.csproj", "{5FCE77C6-C989-49C7-B82B-6F4B7779558C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronLibrary", "NeuronLibrary\NeuronLibrary.csproj", "{D5B56684-0C33-4195-B3D6-D1576B739E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClusterIII", "..\ClusterIII\ClusterIII\ClusterIII.csproj", "{117B1848-45FF-47C4-803C-965DB29B108C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251C06ED-CE98-4BAE-AA94-F8201BED23BC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{251C06ED-CE98-4BAE-AA94-F8201BED23BC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{251C06ED-CE98-4BAE-AA94-F8201BED23BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251C06ED-CE98-4BAE-AA94-F8201BED23BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B56684-0C33-4195-B3D6-D1576B739E42}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B56684-0C33-4195-B3D6-D1576B739E42}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D5B56684-0C33-4195-B3D6-D1576B739E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B56684-0C33-4195-B3D6-D1576B739E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

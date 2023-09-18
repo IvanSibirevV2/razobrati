@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectInformation Source="E:\FuzzyForecast\FuzzyForecast\bin\Release\Новый проект.xml">
+  <Project Name="Новый проект">
+    <SeriesList>
+      <ModelSeries>
+        <Series Name="Новый ряд" XName="Время" YName="Значения ряда">
+          <Point X="0" Y="1" />
+          <Point X="1" Y="3" />
+          <Point X="2" Y="7" />
+          <Point X="3" Y="13" />
+          <Point X="4" Y="21" />
+          <Point X="5" Y="31" />
+          <Point X="6" Y="43" />
+          <Point X="7" Y="57" />
+          <Point X="8" Y="73" />
+          <Point X="9" Y="91" />
+          <Point X="10" Y="111" />
+          <Point X="11" Y="133" />
+          <Point X="12" Y="157" />
+          <Point X="13" Y="183" />
+          <Point X="14" Y="211" />
+          <Point X="15" Y="241" />
+          <Point X="16" Y="273" />
+          <Point X="17" Y="307" />
+          <Point X="18" Y="343" />
+          <Point X="19" Y="381" />
+          <Point X="20" Y="421" />
+          <Point X="21" Y="463" />
+          <Point X="22" Y="507" />
+          <Point X="23" Y="553" />
+          <Point X="24" Y="601" />
+          <Point X="25" Y="651" />
+          <Point X="26" Y="703" />
+          <Point X="27" Y="757" />
+          <Point X="28" Y="813" />
+          <Point X="29" Y="871" />
+          <Point X="30" Y="931" />
+          <Point X="31" Y="993" />
+          <Point X="32" Y="1057" />
+          <Point X="33" Y="1123" />
+          <Point X="34" Y="1191" />
+          <Point X="35" Y="1261" />
+          <Point X="36" Y="1333" />
+          <Point X="37" Y="1407" />
+          <Point X="38" Y="1483" />
+          <Point X="39" Y="1561" />
+          <Point X="40" Y="1641" />
+          <Point X="41" Y="1723" />
+          <Point X="42" Y="1807" />
+          <Point X="43" Y="1893" />
+          <Point X="44" Y="1981" />
+          <Point X="45" Y="2071" />
+          <Point X="46" Y="2163" />
+          <Point X="47" Y="2257" />
+          <Point X="48" Y="2353" />
+          <Point X="49" Y="2451" />
+        </Series>
+        <ACLScale>
+          <Name>ACL шкала</Name>
+          <FuzzyScale>
+            <Name>Основная шкала</Name>
+            <Min>-407,333333333333</Min>
+            <Max>2859,33333333333</Max>
+            <MinNotExp>1</MinNotExp>
+            <MaxNotExp>2451</MaxNotExp>
+            <CoefLengthTop>0</CoefLengthTop>
+            <YInMaxXNextTerm>0,1</YInMaxXNextTerm>
+            <Grades>
+              <Term>
+                <Name>A0 - 1</Name>
+                <X1>-573,691358024691</X1>
+                <X2>-271,222222222222</X2>
+                <X3>-271,222222222222</X3>
+                <X4>31,2469135802469</X4>
+              </Term>
+              <Term>
+                <Name>A0</Name>
+                <X1>-301,469135802469</X1>
+                <X2>0,999999999999972</X2>
+                <X3>0,999999999999972</X3>
+                <X4>303,469135802469</X4>
+              </Term>
+              <Term>
+                <Name>A1</Name>
+                <X1>-29,2469135802469</X1>
+                <X2>273,222222222222</X2>
+                <X3>273,222222222222</X3>
+                <X4>575,691358024691</X4>
+              </Term>
+              <Term>
+                <Name>A2</Name>
+                <X1>242,975308641975</X1>
+                <X2>545,444444444444</X2>
+                <X3>545,444444444444</X3>
+                <X4>847,913580246914</X4>
+              </Term>
+              <Term>
+                <Name>A3</Name>
+                <X1>515,197530864198</X1>
+                <X2>817,666666666667</X2>
+                <X3>817,666666666667</X3>
+                <X4>1120,13580246914</X4>
+              </Term>
+              <Term>
+                <Name>A4</Name>
+                <X1>787,41975308642</X1>
+                <X2>1089,88888888889</X2>
+                <X3>1089,88888888889</X3>
+                <X4>1392,35802469136</X4>
+              </Term>
+              <Term>
+                <Name>A5</Name>
+                <X1>1059,64197530864</X1>
+                <X2>1362,11111111111</X2>
+                <X3>1362,11111111111</X3>
+                <X4>1664,58024691358</X4>
+              </Term>
+              <Term>
+                <Name>A6</Name>
+                <X1>1331,86419753086</X1>
+                <X2>1634,33333333333</X2>
+                <X3>1634,33333333333</X3>
+                <X4>1936,8024691358</X4>
+              </Term>
+              <Term>
+                <Name>A7</Name>
+                <X1>1604,08641975309</X1>
+                <X2>1906,55555555556</X2>
+                <X3>1906,55555555556</X3>
+                <X4>2209,02469135802</X4>
+              </Term>
+              <Term>
+                <Name>A8</Name>
+                <X1>1876,30864197531</X1>
+                <X2>2178,77777777778</X2>
+                <X3>2178,77777777778</X3>
+                <X4>2481,24691358025</X4>
+              </Term>
+              <Term>
+                <Name>A9</Name>
+                <X1>2148,53086419753</X1>
+                <X2>2451</X2>
+                <X3>2451</X3>
+                <X4>2753,46913580247</X4>
+              </Term>
+              <Term>
+                <Name>A9 + 1</Name>
+                <X1>2420,75308641975</X1>
+                <X2>2723,22222222222</X2>
+                <X3>2723,22222222222</X3>
+                <X4>3025,69135802469</X4>
+              </Term>
+            </Grades>
+          </FuzzyScale>
+          <FuzzyScale>
+            <Name>Типы тенденций</Name>
+            <Min>-2515,33333333333</Min>
+            <Max>2515,33333333333</Max>
+            <MinNotExp>-2450</MinNotExp>
+            <MaxNotExp>2450</MaxNotExp>
+            <CoefLengthTop>0</CoefLengthTop>
+            <YInMaxXNextTerm>0</YInMaxXNextTerm>
+            <Grades>
+              <Term>
+                <Name>Падение</Name>
+                <X1>-2450</X1>
+                <X2>-2450</X2>
+                <X3>-24,5</X3>
+                <X4>0</X4>
+              </Term>
+              <Term>
+                <Name>Стабильность</Name>
+                <X1>-24,5</X1>
+                <X2>0</X2>
+                <X3>0</X3>
+                <X4>24,5</X4>
+              </Term>
+              <Term>
+                <Name>Рост</Name>
+                <X1>0</X1>
+                <X2>24,5</X2>
+                <X3>2450</X3>
+                <X4>2450</X4>
+              </Term>
+            </Grades>
+          </FuzzyScale>
+          <FuzzyScale>
+            <Name>Интенсивность</Name>
+            <Min>-159,25</Min>
+            <Max>2707,25</Max>
+            <MinNotExp>0</MinNotExp>
+            <MaxNotExp>2548</MaxNotExp>
+            <CoefLengthTop>0</CoefLengthTop>
+            <YInMaxXNextTerm>0</YInMaxXNextTerm>
+            <Grades>
+              <Term>
+                <Name>R0</Name>
+                <X1>-318,5</X1>
+                <X2>0</X2>
+                <X3>0</X3>
+                <X4>318,5</X4>
+              </Term>
+              <Term>
+                <Name>R1</Name>
+                <X1>0</X1>
+                <X2>318,5</X2>
+                <X3>318,5</X3>
+                <X4>637</X4>
+              </Term>
+              <Term>
+                <Name>R2</Name>
+                <X1>318,5</X1>
+                <X2>637</X2>
+                <X3>637</X3>
+                <X4>955,5</X4>
+              </Term>
+              <Term>
+                <Name>R3</Name>
+                <X1>637</X1>
+                <X2>955,5</X2>
+                <X3>955,5</X3>
+                <X4>1274</X4>
+              </Term>
+              <Term>
+                <Name>R4</Name>
+                <X1>955,5</X1>
+                <X2>1274</X2>
+                <X3>1274</X3>
+                <X4>1592,5</X4>
+              </Term>
+              <Term>
+                <Name>R5</Name>
+                <X1>1274</X1>
+                <X2>1592,5</X2>
+                <X3>1592,5</X3>
+                <X4>1911</X4>
+              </Term>
+              <Term>
+                <Name>R6</Name>
+                <X1>1592,5</X1>
+                <X2>1911</X2>
+                <X3>1911</X3>
+                <X4>2229,5</X4>
+              </Term>
+              <Term>
+                <Name>R7</Name>
+                <X1>1911</X1>
+                <X2>2229,5</X2>
+                <X3>2229,5</X3>
+                <X4>2548</X4>
+              </Term>
+              <Term>
+                <Name>R8</Name>
+                <X1>2229,5</X1>
+                <X2>2548</X2>
+                <X3>2548</X3>
+                <X4>2866,5</X4>
+              </Term>
+            </Grades>
+          </FuzzyScale>
+          <FuzzyScale>
+            <Name>Разность</Name>
+            <Min>-14</Min>
+            <Max>114</Max>
+            <MinNotExp>2</MinNotExp>
+            <MaxNotExp>98</MaxNotExp>
+            <CoefLengthTop>0</CoefLengthTop>
+            <YInMaxXNextTerm>0,1</YInMaxXNextTerm>
+            <Grades>
+              <Term>
+                <Name>D0 - 1</Name>
+                <X1>-20,5185185185185</X1>
+                <X2>-8,66666666666667</X2>
+                <X3>-8,66666666666667</X3>
+                <X4>3,18518518518519</X4>
+              </Term>
+              <Term>
+                <Name>D0</Name>
+                <X1>-9,85185185185185</X1>
+                <X2>2</X2>
+                <X3>2</X3>
+                <X4>13,8518518518519</X4>
+              </Term>
+              <Term>
+                <Name>D1</Name>
+                <X1>0,814814814814813</X1>
+                <X2>12,6666666666667</X2>
+                <X3>12,6666666666667</X3>
+                <X4>24,5185185185185</X4>
+              </Term>
+              <Term>
+                <Name>D2</Name>
+                <X1>11,4814814814815</X1>
+                <X2>23,3333333333333</X2>
+                <X3>23,3333333333333</X3>
+                <X4>35,1851851851852</X4>
+              </Term>
+              <Term>
+                <Name>D3</Name>
+                <X1>22,1481481481481</X1>
+                <X2>34</X2>
+                <X3>34</X3>
+                <X4>45,8518518518518</X4>
+              </Term>
+              <Term>
+                <Name>D4</Name>
+                <X1>32,8148148148148</X1>
+                <X2>44,6666666666667</X2>
+                <X3>44,6666666666667</X3>
+                <X4>56,5185185185185</X4>
+              </Term>
+              <Term>
+                <Name>D5</Name>
+                <X1>43,4814814814815</X1>
+                <X2>55,3333333333333</X2>
+                <X3>55,3333333333333</X3>
+                <X4>67,1851851851852</X4>
+              </Term>
+              <Term>
+                <Name>D6</Name>
+                <X1>54,1481481481481</X1>
+                <X2>66</X2>
+                <X3>66</X3>
+                <X4>77,8518518518518</X4>
+              </Term>
+              <Term>
+                <Name>D7</Name>
+                <X1>64,8148148148148</X1>
+                <X2>76,6666666666667</X2>
+                <X3>76,6666666666667</X3>
+                <X4>88,5185185185185</X4>
+              </Term>
+              <Term>
+                <Name>D8</Name>
+                <X1>75,4814814814815</X1>
+                <X2>87,3333333333333</X2>
+                <X3>87,3333333333333</X3>
+                <X4>99,1851851851852</X4>
+              </Term>
+              <Term>
+                <Name>D9</Name>
+                <X1>86,1481481481482</X1>
+                <X2>98</X2>
+                <X3>98</X3>
+                <X4>109,851851851852</X4>
+              </Term>
+              <Term>
+                <Name>D9 + 1</Name>
+                <X1>96,8148148148148</X1>
+                <X2>108,666666666667</X2>
+                <X3>108,666666666667</X3>
+                <X4>120,518518518519</X4>
+              </Term>
+            </Grades>
+          </FuzzyScale>
+        </ACLScale>
+        <Models>
+          <ForecastModel Type="0" />
+          <ForecastModel Type="1">
+            <Order>2</Order>
+            <FCount>0</FCount>
+            <ActualCount>45</ActualCount>
+            <ExcessModelType>None</ExcessModelType>
+            <UsedAllActualCount>False</UsedAllActualCount>
+            <Hidden>5</Hidden>
+          </ForecastModel>
+          <ForecastModel Type="2">
+            <Order>1</Order>
+            <FCount>0</FCount>
+            <ActualCount>45</ActualCount>
+            <ExcessModelType>None</ExcessModelType>
+            <UsedAllActualCount>False</UsedAllActualCount>
+            <SelectRules>False</SelectRules>
+          </ForecastModel>
+          <ForecastModel Type="3">
+            <Order>2</Order>
+            <FCount>0</FCount>
+            <ActualCount>45</ActualCount>
+            <ExcessModelType>None</ExcessModelType>
+            <UsedAllActualCount>False</UsedAllActualCount>
+            <SelectRules>False</SelectRules>
+          </ForecastModel>
+          <ForecastModel Type="4">
+            <Order>2</Order>
+            <FCount>0</FCount>
+            <ActualCount>45</ActualCount>
+            <ExcessModelType>None</ExcessModelType>
+            <UsedAllActualCount>False</UsedAllActualCount>
+            <SelectRules>False</SelectRules>
+          </ForecastModel>
+        </Models>
+      </ModelSeries>
+    </SeriesList>
+  </Project>
+</ProjectInformation>

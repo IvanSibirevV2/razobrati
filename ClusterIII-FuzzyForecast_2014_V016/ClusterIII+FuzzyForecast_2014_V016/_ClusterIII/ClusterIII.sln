@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClusterIII", "ClusterIII\ClusterIII.csproj", "{117B1848-45FF-47C4-803C-965DB29B108C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{11E55977-C32E-48A3-B755-E68DDA748FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117B1848-45FF-47C4-803C-965DB29B108C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E55977-C32E-48A3-B755-E68DDA748FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E55977-C32E-48A3-B755-E68DDA748FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E55977-C32E-48A3-B755-E68DDA748FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E55977-C32E-48A3-B755-E68DDA748FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

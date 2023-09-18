@@ -1,0 +1,77 @@
+G:\Studies\!Magister\Work\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+G:\Studies\!Magister\Work\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+G:\Studies\!Magister\Work\FuzzyForecast\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+G:\Studies\!Magister\Work\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+G:\Studies\!Magister\Work\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+E:\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.xml
+E:\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+E:\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+E:\FuzzyForecast\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+E:\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+D:\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.xml
+D:\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+D:\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+D:\FuzzyForecast\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+D:\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+C:\Users\Дмитрий\Desktop\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.xml
+C:\Users\Дмитрий\Desktop\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+C:\Users\Дмитрий\Desktop\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+C:\Users\Дмитрий\Desktop\FuzzyForecast\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+C:\Users\Дмитрий\Desktop\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+C:\Users\Дмитрий\Desktop\57\NeuronLibrary\bin\Release\NeuronLibrary.xml
+C:\Users\Дмитрий\Desktop\57\NeuronLibrary\bin\Release\NeuronLibrary.dll
+C:\Users\Дмитрий\Desktop\57\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+C:\Users\Дмитрий\Desktop\57\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\57\NeuronLibrary\obj\Release\NeuronLibrary.dll
+C:\Users\Дмитрий\Desktop\57\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+C:\Users\user\Desktop\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.xml
+C:\Users\user\Desktop\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+C:\Users\user\Desktop\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+C:\Users\user\Desktop\FuzzyForecast\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+C:\Users\user\Desktop\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.xml
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+F:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.xml
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\obj\Release\ResolveAssemblyReference.cache
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+G:\Диплом2010\FuzzyForecast\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+D:\git\Projects 001\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.xml
+D:\git\Projects 001\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.dll
+D:\git\Projects 001\FuzzyForecast\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+D:\git\Projects 001\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.csprojResolveAssemblyReference.cache
+D:\git\Projects 001\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.dll
+D:\git\Projects 001\FuzzyForecast\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.xml
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.dll
+D:\EpicVictoryV025\ClusterIII+FuzzyForecastV014GEN\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.xml
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.dll
+D:\EpicVictoryV032\ClusterIII+FuzzyForecast_2014-12-24-SalxV011\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.xml
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.dll
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.csprojResolveAssemblyReference.cache
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.dll
+D:\EpicVictoryV034\ClusterIII+FuzzyForecast_2014-12-24-SalxV015\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.pdb
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.xml
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.dll
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\bin\Release\NeuronLibrary.pdb
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.csproj.CoreCompileInputs.cache
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.dll
+C:\Q\ClusterIII-FuzzyForecast_2014_V016\ClusterIII+FuzzyForecast_2014_V016\FuzzyForecast_2014-12-24-Salx\NeuronLibrary\obj\Release\NeuronLibrary.pdb

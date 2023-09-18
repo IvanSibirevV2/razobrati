@@ -1,0 +1,10 @@
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.dll
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.pdb
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyLogicLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.dll
+D:\Мои документы\!Magister\Work\FuzzyForecast\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.pdb
+D:\artem\Учеба\FuzzyForecast\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.dll
+D:\artem\Учеба\FuzzyForecast\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.pdb
+D:\artem\Учеба\FuzzyForecast\FuzzyLogicLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\artem\Учеба\FuzzyForecast\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.dll
+D:\artem\Учеба\FuzzyForecast\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.pdb
