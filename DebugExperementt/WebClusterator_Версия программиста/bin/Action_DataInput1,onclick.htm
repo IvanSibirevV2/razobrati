@@ -1,0 +1,10 @@
+<script>function StartCC(){AlterAlert("Alert - StartCC()");rez = СentroidСlustering(DataProject,document.all.DataInput2.value,ToBeeNorm);for(i=0;i<rez.Count();i++){ConvertDataProjectToTable_TypeAfterInput(rez.at(i),document.all.DataOutputTable);}}
+function StartFCM()
+{
+	AlterAlert("Alert - StartFCM()");rez = СentroidСlustering   (DataProject,document.all.DataInput2.value,ToBeeNorm);
+	TM = new List();{{AL = new List();AL.add("TM");for(i=0;i<rez.Count();i++){AL.add("C"+i);}TM.add(AL);}for(i=1;i<DataProject.Count();i++){AL = new List();if(DataProject.at(i).Count()>1){AL.add(DataProject.at(i).at(0));for(j=0;j<rez.Count();j++){flag=false;for(k=1;k<rez.at(j).Count();k++){if(DataProject.at(i).at(0)==rez.at(j).at(k).at(0)){flag=true;}}if(flag){AL.add("1");}else{AL.add("0");}}TM.add(AL);}}}
+	TC = new List();{{AL = new List();AL.add("TC");for(i=1;i<DataProject.at(0).Count();i++){AL.add(DataProject.at(0).at(i));}TC.add(AL);}for(i=0;i<rez.Count();i++){AL = new List();AL.add("C"+i);qer = PointСС(rez.at(i));for(j=0;j<qer.Count();j++){AL.add(qer.at(j));}TC.add(AL);}}
+	ConvertDataProjectToTable_TypeAfterInput(FCMClustering(TM,TC,DataProject,10),document.all.DataOutputTable);
+	AlterAlert("FCM CC OK");	
+}
+document.all.DataInput1.onclick = function (){test = ConvertToNumber(document.all.DataInput2.value);if(test>=2){displayer(document.all.DataOutput);DataProject = ConvertTextToDataProject(document.all.DataInput3.value);document.all.DataOutputTable.innerHTML='';if(document.all.DataInput7_1.style.display == 'block'){StartCC();}if(document.all.DataInput7_2.style.display == 'block'){StartFCM();}}else{text = "Неверно введено количество кластеров.";text = text + "\n Повторите ввод.";document.all.textarea2.value=2;alert(text);}}</script>

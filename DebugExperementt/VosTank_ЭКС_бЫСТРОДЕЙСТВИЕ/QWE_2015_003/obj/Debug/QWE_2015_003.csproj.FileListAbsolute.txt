@@ -1,0 +1,18 @@
+D:\Git\VosTank\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\Git\VosTank\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\Git\VosTank\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\Git\VosTank\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+D:\Git\VosTank\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+D:\Git\VosTank\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.Cache
+D:\Git\VosTank\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\Git\VosTank\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\_эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\VosTank\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\_эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\VosTank\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\_эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\VosTank\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+C:\Q\DebugExperement\VosTank_ЭКС_бЫСТРОДЕЙСТВИЕ\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.AssemblyReference.cache
+C:\Q\DebugExperement\VosTank_ЭКС_бЫСТРОДЕЙСТВИЕ\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+C:\Q\DebugExperement\VosTank_ЭКС_бЫСТРОДЕЙСТВИЕ\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+C:\Q\DebugExperement\VosTank_ЭКС_бЫСТРОДЕЙСТВИЕ\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.cache
+C:\Q\DebugExperement\VosTank_ЭКС_бЫСТРОДЕЙСТВИЕ\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.CoreCompileInputs.cache
+C:\Q\DebugExperement\VosTank_ЭКС_бЫСТРОДЕЙСТВИЕ\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+C:\Q\DebugExperement\VosTank_ЭКС_бЫСТРОДЕЙСТВИЕ\QWE_2015_003\obj\Debug\QWE_2015_003.pdb

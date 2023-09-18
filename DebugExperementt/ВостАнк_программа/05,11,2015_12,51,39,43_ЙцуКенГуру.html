@@ -1,0 +1,72 @@
+<!-- -- Set "utf-8" ----> 
+<!--	<meta charset="utf-8">--> 
+<!-- -- Bootstrap ----> 
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
+<script src="jquery-latest.js"></script> 
+<script src="bootstrap/js/bootstrap.min.js"></script> 
+<!-- -- Unit_List.js ----> 
+<script src="js/Unit_List.js"></script> 
+<!-- -- Unit_CC_m4.js ----> 
+<script src="js/Unit_CC_m4.js"></script> 
+<!-- -- Unit_DataConvert.js ----> 
+<script src="js/Unit_DataConvert.js"></script> 
+<!-- -- Fun_Displayer.js ----> 
+<script src="js/Fun_Displayer.js"></script> 
+<!-- -- Fun_ConvertToNumber.js ----> 
+<script src="js/Fun_ConvertToNumber.js"></script> 
+<div id="JSAlterAlert" class="btn btn-success"></div><script>document.all.JSAlterAlert.onclick = function (){document.all.JSAlterAlert.innerHTML= "JSAlterAlert 0.1";} 
+document.all.JSAlterAlert.onclick();function AlterAlert(input){input="<br/>"+input;document.all.JSAlterAlert.innerHTML+= input;}/*document.all.weqw.innerHTML+=HTMLText;AlterAlert();*/</script> 
+<table id="JSAAT" class="table table-striped"></table>  
+<script> 
+/*FCM*/ 
+function DistanceFCM(input1,input2){rez=0;if(input1.Count()==input2.Count()){for(i2=1;i2<input1.Count();i2++){qwe=input1.at(i2)-input2.at(i2);rez=rez+qwe*qwe;}rez=Math.sqrt(rez);}return rez;} 
+function FCMClustering(TM,TC,X,E){/*<РЁР°Рі 1>*/Q=1.5;N=TC.Count()-1;/*<РЁР°Рі 2>*/for(fdw=1;fdw<E;fdw++){/*TC*/for(i=1;i<TC.Count();i++){for(j=1;j<TC.a[i].Count();j++){ch=0;zn=0;for(w=1;w<TM.Count();w++){ch=ch+Math.pow(TM.a[w].a[i],Q)*X.a[w].a[j];zn=zn+ Math.pow(TM.a[w].a[i],Q);}TC.a[i].a[j]=ch/zn;}}/*TM*/for(i=1;i<TM.Count();i++){flag=false;stopset=0;for(j=1;j<TM.at(i).Count();j++){if(DistanceFCM(X.a[i],TC.a[j])==0){flag=true;stopset=j;}}if(flag){for(j=1;j<TM.at(i).Count();j++){if(j==stopset){TM.a[i].a[j]=1;}if(j!=stopset){TM.a[i].a[j]=0;}}}else{for(j=1;j<TM.at(i).Count();j++){zn=0;for(k=1;k<TM.at(i).Count();k++){zn=zn+1/Math.pow(DistanceFCM(X.a[i],TC.a[k]),1/(Q-1));}TM.a[i].a[j]=(1/Math.pow(DistanceFCM(X.a[i],TC.a[j]),1/(Q-1)))/zn;}}}}return TM;}</script> 
+<form id="DataInput" class="label label-warning" style="display:block;"><div width=100% class="label label-success" style="display:block;"><center>Ввод данных</center></div><br> 
+<div id="DataInput1" class="btn btn-info" style="display:block;width: 100%;">Кластеризовать</div> 
+<textarea id="DataInput3" style="width: 40%;margin-left: 30%;margin-right: 30%;">Параметры	П1	П2	П3 
+Анкета№1	1	2	3 
+Анкета№2	7	8	9 
+Анкета№3	3	4	5 
+</textarea> 
+<div id="DataInput4" class="btn btn-info" style="display:block;width: 100%;">Посмотреть исходные данные</div> 
+<div id="DataInputTryTablefraim" class="label label-success" style="display:none;width: 100%;"><center><div>Исходные данные<br></div> 
+<table id="DataInputTryTable" class="table table-striped" style="display:block;width: 100%;"></table>  
+</div></center></form> 
+<form id="DataOutput" class="label label-warning" style="display:none;"> 
+<div width=100% class="label label-success" style="display:block;"><center>Вывод результатов кластеризации</center></div><br> 
+<!--<center>--> 
+<div id="DataOutputTablefraim" class="label label-success" style="display:block;width: 100%;"> 
+<table id="DataOutputTable" class="table table-striped" style="display:block;width: 100%;"></table> 
+</div> 
+<!--</center>--> 
+</form> 
+<script>/*DataInput5-6,onclick*/ToBeeNorm= true; 
+document.all.DataInput5.onclick = function (){displayer(document.all.DataInput5);displayer(document.all.DataInput6);ToBeeNorm= false;} 
+document.all.DataInput6.onclick = function (){displayer(document.all.DataInput5);displayer(document.all.DataInput6);ToBeeNorm= true;}</script> 
+<script>/*DataInput7_..,onclick*/ 
+document.all.DataInput7_1.onclick = function () 
+{ 
+displayer(document.all.DataInput7_1); 
+displayer(document.all.DataInput7_2); 
+document.all.DataOutput.style.display = 'none'; 
+ToBeeNorm= false; 
+} 
+document.all.DataInput7_2.onclick = function () 
+{ 
+displayer(document.all.DataInput7_2); 
+displayer(document.all.DataInput7_1); 
+document.all.DataOutput.style.display = 'none'; 
+ToBeeNorm= true; 
+}</script> 
+<script>/*DataInput4,onclick*/document.all.DataInput4.onclick = function (){displayer(document.all.DataInputTryTablefraim);DataProject = ConvertTextToDataProject(document.all.DataInput3.value);document.all.DataInputTryTable.innerHTML='';ConvertDataProjectToTable_TypeAfterInput(DataProject,document.all.DataInputTryTable);}</script> 
+<script> 
+document.all.DataInput1.onclick = function (){ 
+displayer(document.all.DataOutput) 
+} 
+</script> 
+<script> 
+//AlterAlert("Action_AutoStart"); 
+//document.all.DataInput4.onclick(); 
+//document.all.DataInput7_1.onclick(); 
+//document.all.DataInput1.onclick(); 
+</script> 

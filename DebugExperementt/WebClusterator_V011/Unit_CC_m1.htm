@@ -1,0 +1,175 @@
+<script>//СentroidСlustering
+	function Point(input){//Скорее Всего ищём средне орифметической координаты
+		rezPoint= new List();		
+		//Обнуляем		
+		for(iPoint=0;iPoint<input.at(0).Count()-1;iPoint++){		
+			rezPoint.add(+0);			
+		}	
+		delete iPoint;
+		//Складываем всё что можем
+		for(iPoint=1;iPoint<input.Count();iPoint++){		
+			for(jPoint=1;jPoint<input.at(0).Count();jPoint++){								
+				rezPoint.a[jPoint-1]=rezPoint.a[jPoint-1]+parseFloat(input.at(iPoint).at(jPoint));
+			}						
+		}
+		delete iPoint;
+		delete jPoint;		
+		//Делим всё на ноль
+		for(iPoint=0;iPoint<rezPoint.Count();iPoint++){
+			//alert(rezPoint.at(iPoint));
+			rezPoint.a[iPoint]=rezPoint.a[iPoint]/(rezPoint.Count());
+		}		
+		delete iPoint;		
+		return rezPoint;
+		delete rezPoint;		
+	}
+	function Distance(input1,input2){
+		i1Distance=Point(input1);
+		/*
+		TEXT="";
+		for(adfs=0;adfs<i1Distance.Count();adfs++){
+			TEXT=TEXT+"\n"+i1Distance.at(adfs);
+		}alert(TEXT);
+		*/
+		i2Distance=Point(input2);		
+		/*
+		TEXT="";
+		for(adfs=0;adfs<i2Distance.Count();adfs++){
+			TEXT=TEXT+"\n"+i2Distance.at(adfs);
+		}alert(TEXT);
+		*/
+		rezDistance=0;				
+		if(i1Distance.Count()==i2Distance.Count()){			
+			for(iDistance=0;iDistance<i1Distance.Count();iDistance++){
+				qwe=i1Distance.at(iDistance)-i2Distance.at(iDistance);
+				//alert(i1Distance.at(iDistance)+"\n"+i2Distance.at(iDistance));
+				rezDistance=rezDistance+qwe*qwe;								
+				delete qwe;
+			}	
+			delete iDistance;			
+		}		
+		delete i1Distance;
+		delete i2Distance;
+		rezDistance=Math.sqrt(rezDistance);
+		return rezDistance		
+		delete rezDistance;		
+	}
+	function СentroidСlustering(realinput,k){	
+		input = new List();
+		input.addList(realinput);
+		//	Создаём список кластеров
+		OutPutСluster = new List();
+		RealOutPutСluster = new List();
+		//ert(NewCluster.Count());			
+		for(i=1;i<input.Count()-1;i++){
+			//Создаём новый объект-кластер-предприятие
+			NewCluster = new List();			
+			NewCluster.add(input.at(0));			
+			NewCluster.add(input.at(i));
+			//Копируем новый объект-кластер-предприятие
+			OutPutСluster.add(NewCluster);
+			RealOutPutСluster.add(NewCluster);
+		}
+		//Нормирование данных		
+		//Перебор параметров	
+		//for(j=1;j<OutPutСluster.at(0).Count()-1;j++){
+			//alert("A L E R T ! ! ! ");
+			//alert(OutPutСluster.at(1).at(1).at(1));
+			//alert("A L E R T ! ! ! ");
+		/*
+			Max=-9999999999999999;
+			//Перебор кластеров
+			for(i=0;i<OutPutСluster.Count()-1;i++){				
+				if( Max < OutPutСluster.at(i).at(j))
+					Max = OutPutСluster.at(i).at(j);
+			}
+			//нормируем
+			for(i=0;i<OutPutСluster.Count()-1;i++)
+				OutPutСluster.at(i).at(j) = OutPutСluster.at(i).at(j)/Max;
+				*/
+		//}
+		
+		/*
+		//Перебор кластеров
+		for(i=0;i<OutPutСluster.Count();i++){
+			//Получение списка параметров
+			iPoint=Point(OutPutСluster.at(i));
+			//Перебор параметров
+			for(j=0;j<iPoint.Count();j++){
+			------------------------------------------------------------
+			OutPutСluster.at(i)
+			
+		}}
+		*/
+		delete input;
+		delete i;
+		//Перибераем всякую
+		//k=parseInt(k)+1;		
+		if(OutPutСluster.Count()>2)
+		{	
+			do {		
+				//Найти минимальный элемент				
+				min= 9999999999999999;			
+				minI=0;minJ=0;
+				for(i=0;i<OutPutСluster.Count();i++){
+					for(j=0;j<OutPutСluster.Count();j++){
+						//alert("("+i+";"+j+")");					
+						di= Distance(OutPutСluster.at(i),OutPutСluster.at(j)) ;
+						if(i!=j)	
+							{						
+								if( min >  di){																	
+									min=di;								
+									minI=i;
+									minJ=j;								
+								}
+							}							
+						//alert("d("+i+";"+j+")="+di+"\n min="+min+"\n"+OutPutСluster.Count()+"\n minI=" +minI+"\n minJ="+minJ);
+						delete di;
+						delete di;
+					}
+				}
+				delete i;
+				delete j;
+				delete min;				
+				//Сгрупперовать два мини мальных элемента
+				NewC= new List();			
+				NewC.add(OutPutСluster.at(minI).at(0));				
+				//Добавляем все элементы из minI
+				for(i=1;i<OutPutСluster.at(minI).Count();i++){
+					NewC.add(OutPutСluster.at(minI).at(i));				
+				}
+				delete i;				
+				//Добавляем все элементы из minJ				
+				for(i=1;i<OutPutСluster.at(minJ).Count();i++){
+					NewC.add(OutPutСluster.at(minJ).at(i));				
+				}				
+				delete i;			
+				//Удаляем minI minJ								
+				//alert('minI = '+minI+' \n minJ = '+ minJ);
+				if(minI>minJ){
+						//alert('minI>minJ');
+						OutPutСluster=OutPutСluster.removeat(minI);
+						OutPutСluster=OutPutСluster.removeat(minJ);
+					}else{
+						//alert('minI<=minJ');
+						OutPutСluster=OutPutСluster.removeat(minJ);
+						OutPutСluster=OutPutСluster.removeat(minI);
+					}				
+				//alert("qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq");
+				//Добавляем отсебятинки			
+				OutPutСluster.add(NewC);
+				/*
+				for(i=0;i<OutPutСluster.Count();i++){//Вывод на экран всякого хлама
+					alert("Кол-Во кластеров; "+ OutPutСluster.Count()+"\n Текущий кластер:" +i+"\n Количество подкластеров:" +OutPutСluster.at(i).Count()+"\n "+"\n Перичисление"+"\n :" +OutPutСluster.at(i).at(0).at(0)+"\n :" +OutPutСluster.at(i).at(1).at(0));
+					ConvertDataProjectToTable_TypeAfterInput(OutPutСluster.at(i),document.all.table2);
+				}				
+				*/
+				//alert("qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq");
+			//Радуемся жизни			
+				//alert(OutPutСluster.Count()+">"+k);
+				//k=k-1;
+			} while (OutPutСluster.Count()>k);						
+		}		
+		return OutPutСluster;
+	}
+</script>

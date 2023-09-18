@@ -1,0 +1,132 @@
+D:\QWE_2015_003\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.0\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.0\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.0\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.0\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.0\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.0\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003.1\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.1\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.1\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.1\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.1\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003.1\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.2\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.2\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.2\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.2\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.2\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.2\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003.4\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.4\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.4\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.4\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.4\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.4\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003.5\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.5\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.5\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.5\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.5\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.5\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003.6\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.6\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.6\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.6\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.6\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.6\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003.7\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.7\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.7\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.7\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.7\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.7\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\#c++\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\#c++\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\#c++\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\#c++\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\#c++\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\#c++\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\#c__\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\#c__\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\#c__\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\#c__\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\#c__\QWE_2015_003.8\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\#c__\QWE_2015_003.8\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\#c__\QWE_2015_003.9\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\#c__\QWE_2015_003.9\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\#c__\QWE_2015_003.9\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\#c__\QWE_2015_003.9\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\#c__\QWE_2015_003.9\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\#c__\QWE_2015_003.9\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\#c__\QWE_2016_06,03,2016_13,06,39,93\QWE_2015_003\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\#c__\QWE_2016_06,03,2016_13,06,39,93\QWE_2015_003\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\#c__\QWE_2016_06,03,2016_13,06,39,93\QWE_2015_003\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\#c__\QWE_2016_06,03,2016_13,06,39,93\QWE_2015_003\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\#c__\QWE_2016_06,03,2016_13,06,39,93\QWE_2015_003\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\#c__\QWE_2016_06,03,2016_13,06,39,93\QWE_2015_003\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.Cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_4_06,03,2016_18,44,09,07 - копия\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.Cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\obj\Debug\QWE_2015_003.Priority.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.Cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_13,03,2016_16,57,01,50\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.Cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_17,03,2016_22,43,40,08\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.csprojResolveAssemblyReference.cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.Cache
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+D:\эКСПЕРИМЕНТ ПО ИЗУЧЕНИЮ МЕТОДА\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.pdb
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\bin\Debug\QWE_2015_003.exe.config
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\bin\Debug\QWE_2015_003.exe
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\bin\Debug\QWE_2015_003.pdb
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.AssemblyReference.cache
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.Form1.resources
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.TextDataSaveLoadForm.resources
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.GenerateResource.cache
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.csproj.CoreCompileInputs.cache
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.exe
+C:\Q\ПО\QWE_2015_19,03,2016__7,29,32,71\QWE_2015_003\obj\Debug\QWE_2015_003.pdb

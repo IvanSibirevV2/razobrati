@@ -1,0 +1,62 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1251"><div><!-- -- Bootstrap ----><link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"><script src="jquery-latest.js"></script><script src="bootstrap/js/bootstrap.min.js"></script></div></head> 
+<script>function List(){this.a = new Array();}		 
+List.prototype.print = function (){text= "Begin:";for ( i = 0; i < this.a.length; i++){text= text+"\n    List["+i+"]="+this.a[i];}text= text+"\nEnd;";WScript.echo(text);} 
+List.prototype.add = function (input){this.a[this.a.length]=(input);} 
+List.prototype.at = function (input){if(( input > -1 ) &&( input < this.a.length )){return this.a[input];}else{text= "Error\n List.prototype.at = function (input)"+"\n Index TypeError"+"\n Input:<"+input+"> bat expect [0;"+(this.a.length-1)+"]";WScript.echo(text);return 0;}} 
+List.prototype.addList = function (inputlist){if (inputlist instanceof List){for(i = 0; i< inputlist.a.length;i++){this.add(inputlist.at(i));}}} 
+List.prototype.removeat = function (input){rez = new List();for ( i = 0; i < this.a.length; i++){if(parseInt(i)!= parseInt(input)){local = this.a[i];rez.add(local);}}return rez;} 
+List.prototype.Count = function (){return this.a.length;}</script> 
+<script>DataProject = new List();function ConvertTextToDataProject(InputText){RealText="";for(i=0;i<InputText.length;i++){if(InputText.charAt(i)=='	'){RealText=RealText+"~";}else{RealText=RealText+InputText.charAt(i);}}MainLocalDP = new List();for(i=0;i<RealText.split(/\n/).length;i++){TextI=RealText.split(/\n/)[i]+"";LocalDP = new List();for(j=0;j<RealText.split(/\n/)[i].split(/~/).length;j++){TextIJ=RealText.split(/\n/)[i].split(/~/)[j]+"";LocalDP.add(TextIJ);}MainLocalDP.add(LocalDP);}return MainLocalDP;}function ConvertDataProjectToTable_TypeAfterInput(InputDP,OutpuPoint){flag=true;for(iCDPTT_TAI=0;iCDPTT_TAI<InputDP.Count();iCDPTT_TAI++){if(InputDP.at(iCDPTT_TAI).Count()>1){HTMLText="";LocalIDP=InputDP.at(iCDPTT_TAI);for(jCDPTT_TAI=0;jCDPTT_TAI<LocalIDP.Count();jCDPTT_TAI++){TextIJ=LocalIDP.at(jCDPTT_TAI);HTMLText=HTMLText+'<td>'+TextIJ+""+'</td>';}if(iCDPTT_TAI==0){HTMLText= '<tr class="error">'+HTMLText+'</tr>';}else{if(flag==true){HTMLText= '<tr class="success">'+HTMLText+'</tr>';}if(flag==false){HTMLText= '<tr class="info">'+HTMLText+'</tr>';}}if(flag==true){flag=false;}else{flag=true;}OutpuPoint.innerHTML+=HTMLText;}}}</script> 
+<script>function PointСС(input){rP= new List();for(i1=1;i1<input.at(0).Count();i1++){rP.add(0);}for(jP=1;jP<input.at(0).Count();jP++){for(iP=1;iP<input.Count();iP++){rP.a[jP-1]=rP.a[jP-1]+parseFloat(input.at(iP).at(jP));}}for(iP=0;iP<rP.Count();iP++){rP.a[iP]=rP.a[iP]/(input.Count()-1);}return rP;} 
+function DistanceСС(input1,input2){i1Distance=PointСС(input1);i2Distance=PointСС(input2);rezDistance=0;if(i1Distance.Count()==i2Distance.Count()){for(iDistance=0;iDistance<i1Distance.Count();iDistance++){qwe=i1Distance.at(iDistance)-i2Distance.at(iDistance);rezDistance=rezDistance+qwe*qwe;}}rezDistance=Math.sqrt(rezDistance);return rezDistance} 
+function DataSightGet(data,x,xx,xxx){rez= data.at(x).at(xx+1).at(xxx+1);return rez;}	 
+function СentroidСlustering(realinput,k,ToBeeNorm){input = new List();input.addList(realinput);OutPutСluster = new List();for(i=1;i<input.Count()-1;i++){NewCluster = new List();NewCluster.add(input.at(0));NewCluster.add(input.at(i));OutPutСluster.add(NewCluster);}maxList = new List();if(ToBeeNorm){for(j=0;j<OutPutСluster.at(0).at(1).Count()-1;j++){max=-9999999999;for(i=0;i<OutPutСluster.Count();i++){qwe=DataSightGet(OutPutСluster,i,0,j);if(qwe>max){max=qwe;}}for(i=0;i<OutPutСluster.Count();i++){qwe=DataSightGet(OutPutСluster,i,0,j)/max;OutPutСluster.a[i].a[0+1].a[j+1] = qwe;}maxList.add(max);}}if(OutPutСluster.Count()>2){do {min= 9999999999999999;minI=0;minJ=0;for(i=0;i<OutPutСluster.Count();i++){for(j=0;j<OutPutСluster.Count();j++){di= DistanceСС(OutPutСluster.at(i),OutPutСluster.at(j));if(i!=j){if( min >  di){min=di;minI=i;minJ=j;}}}}NewC= new List();NewC.add(OutPutСluster.at(minI).at(0));for(i=1;i<OutPutСluster.at(minI).Count();i++){NewC.add(OutPutСluster.at(minI).at(i));}delete i;for(i=1;i<OutPutСluster.at(minJ).Count();i++){NewC.add(OutPutСluster.at(minJ).at(i));}delete i;if(minI>minJ){OutPutСluster=OutPutСluster.removeat(minI);OutPutСluster=OutPutСluster.removeat(minJ);}else{OutPutСluster=OutPutСluster.removeat(minJ);OutPutСluster=OutPutСluster.removeat(minI);}OutPutСluster.add(NewC);}while (OutPutСluster.Count()>k);}if(ToBeeNorm){for(i=0;i<OutPutСluster.Count();i++){for(j=0;j<OutPutСluster.a[i].Count();j++){if(j>0){for(z=0;z<maxList.Count();z++){OutPutСluster.a[i].a[j].a[z+1]=OutPutСluster.a[i].a[j].a[z+1]*maxList.a[z];}}}}}return OutPutСluster;}</script> 
+<script>function DistanceFCM(input1,input2){rez=0;if(input1.Count()==input2.Count()){for(i2=1;i2<input1.Count();i2++){qwe=input1.at(i2)-input2.at(i2);rez=rez+qwe*qwe;}rez=Math.sqrt(rez);}return rez;} 
+function FCMClustering(TM,TC,X,E){Q=1.5;N=TC.Count()-1;for(fdw=1;fdw<E;fdw++){for(i=1;i<TC.Count();i++){for(j=1;j<TC.a[i].Count();j++){ch=0;zn=0;for(w=1;w<TM.Count();w++){ch=ch+Math.pow(TM.a[w].a[i],Q)*X.a[w].a[j];zn=zn+ Math.pow(TM.a[w].a[i],Q);}TC.a[i].a[j]=ch/zn;}}for(i=1;i<TM.Count();i++){flag=false;stopset=0;for(j=1;j<TM.at(i).Count();j++){if(DistanceFCM(X.a[i],TC.a[j])==0){flag=true;stopset=j;}}if(flag){for(j=1;j<TM.at(i).Count();j++){if(j==stopset){TM.a[i].a[j]=1;}if(j!=stopset){TM.a[i].a[j]=0;}}}else{for(j=1;j<TM.at(i).Count();j++){zn=0;for(k=1;k<TM.at(i).Count();k++){zn=zn+1/Math.pow(DistanceFCM(X.a[i],TC.a[k]),1/(Q-1));}TM.a[i].a[j]=(1/Math.pow(DistanceFCM(X.a[i],TC.a[j]),1/(Q-1)))/zn;}}}}return TM;}</script> 
+<script>function ConvertToNumber(input){rez=0;if (isNaN(input) == false ){rez = parseInt(input)+0;if (isNaN(rez) == true ){rez = 0;}}return rez;}</script> 
+<script>function displayer(input){if (input.style.display != 'block'){input.style.display = 'block';}else{input.style.display = 'none';}}</script> 
+<form id="DataInput" class="label label-warning" style="display:block;"><div width=100% class="label label-success" style="display:block;"><center>Ввод данных</center></div><br> 
+<center><div id="DataInput1" class="btn btn-info" style="display:block;">Кластеризовать</div></center> 
+<div id="DataInput7_1" class="btn btn-success" style="display:block;">Кластеризация центроидным методом</div> 
+<div id="DataInput7_2" class="btn btn-success" style="display:none;">Кластеризация FCM методом</div><center><div>Укажите количество кластеров (>=2)</div></center> 
+<center><textarea id="DataInput2">2</textarea></center> 
+<div id="DataInput5" class="btn btn-success" style="display:block;">Нормировать данные</div> 
+<div id="DataInput6" class="btn btn-success" style="display:none;">Не нормировать данные</div><center><div>Входные данные<br> Импортируйте их из таблиц Excel<br> Допускается правка данных</div></center> 
+<center><textarea id="DataInput3">Параметры	П1	П2	П3 
+Анкета№1	1	2	3 
+Анкета№2	7	8	9 
+Анкета№3	3	4	5 
+</textarea></center> 
+<center><div id="DataInput4" class="btn btn-info" style="display:block;">Посмотреть исходные данные</div></center> 
+<center><div id="DataInputTryTablefraim" class="label label-success" style="display:none;"><center><div>Исходные данные<br></div></center> 
+<table id="DataInputTryTable" class="table table-striped" style="display:block;"></table>  
+</div></center></form> 
+<form id="DataOutput" class="label label-warning" style="display:none;"><div width=100% class="label label-success" style="display:block;"><center>Вывод результатов кластеризации</center></div><br><center><div id="DataOutputTablefraim" class="label label-success" style="display:block;"><table id="DataOutputTable" class="table table-striped" style="display:block;"></table></div></center></form> 
+<script>ToBeeNorm= true; 
+document.all.DataInput5.onclick = function (){displayer(document.all.DataInput5);displayer(document.all.DataInput6);ToBeeNorm= false;} 
+document.all.DataInput6.onclick = function (){displayer(document.all.DataInput5);displayer(document.all.DataInput6);ToBeeNorm= true;}</script> 
+<script> 
+document.all.DataInput7_1.onclick = function () 
+{ 
+displayer(document.all.DataInput7_1); 
+displayer(document.all.DataInput7_2); 
+document.all.DataOutput.style.display = 'none'; 
+ToBeeNorm= false; 
+} 
+document.all.DataInput7_2.onclick = function () 
+{ 
+displayer(document.all.DataInput7_2); 
+displayer(document.all.DataInput7_1); 
+document.all.DataOutput.style.display = 'none'; 
+ToBeeNorm= true; 
+}</script> 
+<script>document.all.DataInput4.onclick = function (){displayer(document.all.DataInputTryTablefraim);DataProject = ConvertTextToDataProject(document.all.DataInput3.value);document.all.DataInputTryTable.innerHTML='';ConvertDataProjectToTable_TypeAfterInput(DataProject,document.all.DataInputTryTable);}</script> 
+<script>function StartCC(){rez = СentroidСlustering(DataProject,document.all.DataInput2.value,ToBeeNorm);for(i=0;i<rez.Count();i++){ConvertDataProjectToTable_TypeAfterInput(rez.at(i),document.all.DataOutputTable);}} 
+function StartFCM() 
+{ 
+rez = СentroidСlustering   (DataProject,document.all.DataInput2.value,ToBeeNorm); 
+TM = new List();{{AL = new List();AL.add("TM");for(i=0;i<rez.Count();i++){AL.add("C"+i);}TM.add(AL);}for(i=1;i<DataProject.Count();i++){AL = new List();if(DataProject.at(i).Count()>1){AL.add(DataProject.at(i).at(0));for(j=0;j<rez.Count();j++){flag=false;for(k=1;k<rez.at(j).Count();k++){if(DataProject.at(i).at(0)==rez.at(j).at(k).at(0)){flag=true;}}if(flag){AL.add("1");}else{AL.add("0");}}TM.add(AL);}}} 
+TC = new List();{{AL = new List();AL.add("TC");for(i=1;i<DataProject.at(0).Count();i++){AL.add(DataProject.at(0).at(i));}TC.add(AL);}for(i=0;i<rez.Count();i++){AL = new List();AL.add("C"+i);qer = PointСС(rez.at(i));for(j=0;j<qer.Count();j++){AL.add(qer.at(j));}TC.add(AL);}} 
+ConvertDataProjectToTable_TypeAfterInput(FCMClustering(TM,TC,DataProject,10),document.all.DataOutputTable); 
+} 
+document.all.DataInput1.onclick = function (){test = ConvertToNumber(document.all.DataInput2.value);if(test>=2){displayer(document.all.DataOutput);DataProject = ConvertTextToDataProject(document.all.DataInput3.value);document.all.DataOutputTable.innerHTML='';if(document.all.DataInput7_1.style.display == 'block'){StartCC();}if(document.all.DataInput7_2.style.display == 'block'){StartFCM();}}else{text = "Неверно введено количество кластеров.";text = text + "\n Повторите ввод.";document.all.textarea2.value=2;alert(text);}}</script> 

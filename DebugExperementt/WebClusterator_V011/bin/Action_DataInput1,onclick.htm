@@ -1,0 +1,19 @@
+<script>//Action_DataInput1,onclick
+document.all.DataInput1.onclick = function (){	 	
+	test = ConvertToNumber(document.all.DataInput2.value);		
+		if(test>=2){
+			displayer(document.all.DataOutput);
+			DataProject = ConvertTextToDataProject(document.all.DataInput3.value);
+			rez = СentroidСlustering(DataProject,document.all.DataInput2.value,ToBeeNorm);	
+			document.all.DataOutputTable.innerHTML='';
+			for(i=0;i<rez.Count();i++){
+			ConvertDataProjectToTable_TypeAfterInput(rez.at(i),document.all.DataOutputTable);
+			}
+		}
+		else{
+			text = "Неверно введено количество кластеров.";
+			text = text + "\n Повторите ввод."
+			document.all.textarea2.value=2;
+			alert(text);
+		}
+}</script>

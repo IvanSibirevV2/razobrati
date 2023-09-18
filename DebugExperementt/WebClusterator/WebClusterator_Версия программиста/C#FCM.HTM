@@ -1,0 +1,176 @@
+<script>
+public class UClass
+{
+	public List<double> Ulist = new List<double>();
+	/*List Ulist = new List();*/
+}
+public double Distance(Cluster A, Cluster B)
+/*function Distance( A, B)*/
+{
+	double rez = 0;
+	/*rez = 0;*/
+	int i = 0;
+	/*i = 0;*/
+	/*Перебор параметров.*/
+	foreach (Group MyGpoup in A.CGroupList)
+	{
+		int j = 0;
+		/*j = 0;*/
+		foreach (Param MyParam in MyGpoup.GParamList)
+		{
+			rez = rez + Math.Pow((A.CGroupList[i].GParamList[j].P - B.CGroupList[i].GParamList[j].P), 2);
+			/*rez = rez + (A.GParamList[j].P - B.GParamList[j].P)*(A.GParamList[j].P - B.GParamList[j].P);*/
+			j = 0;
+			/*j = 0;*/
+		}i++;
+		/*i = i + 1;*/
+	}	
+	if ( Math.Sqrt(rez) == 0) { rez = 0.00000000001; }
+	return Math.Sqrt(rez);
+}
+public Cluster CRecord(List<UClass> MyUCluster, Cluster C, double q, Cluster MySuperCluster)
+/*public Cluster CRecord( MyUCluster, C, q, MySuperCluster)*/
+{            
+	Cluster rez= new Cluster();
+	/*Cluster rez= new List();*/
+	rez=C;
+	/*Перебераес кластеры*/int j = 0;
+	/*Построчно*/
+	foreach (Cluster MyCluster in rez.SCluster)
+	{
+		double zn = 0;/* перебираем предприяьтия*/
+		/*zn = 0;*/
+		for (int k = 0; k < MyUCluster[j].Ulist.Count(); k++)
+		{zn = zn + Math.Pow(MyUCluster[j].Ulist[k], q);}                   
+		
+		
+		int i1=0;/*перебираем в кластерах группы*/
+		foreach (Group MyGroup in MyCluster.CGroupList)
+		{
+			int i2=0;/*перибираем в группах в кластерах параметры*/
+			foreach (Param MyParam in MyGroup.GParamList)
+			{
+				double ch = 0;/*перебираем предприятия*/
+				for (int k = 0; k < MyUCluster[j].Ulist.Count(); k++)
+				{
+					ch = ch + Math.Pow(MyUCluster[j].Ulist[k], q) * MySuperCluster.SCluster[k].CGroupList[i1].GParamList[i2].P;
+				}
+				MyCluster.CGroupList[i1].GParamList[i2].P = ch / zn;
+				i2++;
+			}i1++;
+		}j++;
+	} 
+	return rez;        
+}
+
+public List<UClass> URecord(List<UClass> UCluster, Cluster C, double q, Cluster MySuperCluster)
+{
+	List<UClass> rez = new List<UClass>();	
+	/*#region Задаём матриц U*/
+	/*зАДАЛИ КЛАСТЕРЫ*/
+	for (int i = 0; i < UCluster.Count(); i++)
+	{
+		rez.Add(new UClass());/*Задали все предприятия*/
+		for (int j = 0; j < UCluster[i].Ulist.Count(); j++)                
+			rez[i].Ulist.Add(Convert.ToDouble(0));
+	}/*#endregion*/	
+	/*пробегаем кластеры*/
+	for (int j = 0; j < UCluster.Count(); j++)
+	{
+		/*Пробегаем предприятия*/
+		for (int i = 0; i < UCluster[j].Ulist.Count(); i++)
+		{            
+			double zn = 0;
+			for (int l = 0; l < UCluster.Count(); l++)
+			{
+				zn = zn + Math.Pow(Distance(MySuperCluster.SCluster[i], C.SCluster[j]) / Distance(MySuperCluster.SCluster[i], C.SCluster[l]), 2 / (q - 1));
+			
+			}
+			/*Пробегаем вообще все предприятия ещё раз.*/
+			if (zn == 0) { zn = 0.0000001; }
+			rez[j].Ulist[i]=1/zn;
+		}             
+	}
+		return rez;
+}
+public  DataTableFCM(int N, double q, Cluster MyCluster, Cluster MySuperCluster)
+{
+	//<Шаг 1. Инициализация.>            
+	Cluster C = new Cluster();
+	List<UClass> UCluster = new List<UClass>();
+	C = MyCluster.Copy();
+	/*#region Этот цикл обрабатывает список кластерОВ ПРЕДОБРАБОТКА*/
+	foreach (Cluster MyLocalcluster in C.SCluster)
+	{
+		/*Берём и перепрошиваем наши данные, избавляясь от иерархической структуры*/
+		List<Cluster> MyClusterList = new List<Cluster>();
+		MyClusterList = MyLocalcluster.GetInCluster();
+		MyLocalcluster.SCluster.Clear();
+		MyLocalcluster.SCluster.AddRange(MyClusterList);
+		/*Если это кластер единичной мощьности, то делаем его видимым.*/
+		/*(Своеоюразное хитроумное самодобавление)*/
+		if (MyLocalcluster.SCluster.Count == 0)
+		{
+			Cluster MyLocalcluster1 = new Cluster();
+			MyLocalcluster1 = MyLocalcluster;
+			MyLocalcluster.SCluster.Add(MyLocalcluster);
+		} 		 
+	}/*#endregion*/
+	/*#region Задаём матриц U*/
+	/*зАДАЛИ КЛАСТЕРЫ*/
+
+	int i1 = 0;                                   
+	/*Пробегаем кластеры.*/
+	foreach (Cluster MyLocalcluster in C.SCluster)
+	{
+		UCluster.Add(new UClass());
+		/*Задали все предприятия*/
+		int j = 0;
+		foreach (Cluster MyLocalcluster1 in MySuperCluster.SCluster)
+		{
+			Boolean flag=false;			
+			/*пробегаем предприятия в кластере*/
+			foreach (Cluster MyLocalcluster2 in MyLocalcluster.SCluster)
+			{
+				if (MyLocalcluster2.Name == MyLocalcluster1.Name)
+				{flag = true;}                        
+			}
+			if (flag)
+			{UCluster[i1].Ulist.Add(0);}
+			else{UCluster[i1].Ulist.Add(1);}j++;
+		}i1++;
+	}
+	/*#endregion*/	
+	for (int i = 0; i < N;i++ )
+	{
+		/*<Шаг 2. Вычисление центров кластера.>*/
+		C = CRecord(UCluster, C, q, MySuperCluster.Copy());                                
+		/*<Шаг 3. Формирование новой матрици принадлежности.>*/
+		UCluster = URecord( UCluster, C, q, MySuperCluster.Copy());                
+		/*</Шаг 3. Формирование новой матрици принадлежности.>*/
+		/*</Шаг 2. Вычисление центров кластера.>*/
+	}
+	/*Выводим на экран*/
+	DataTable MyUDataTable = new DataTable();
+	MyUDataTable.Columns.Add("Предприятия / кластеры", typeof(string));
+	foreach (Cluster MyLocalcluster1 in MyCluster.SCluster)            
+	{
+		MyUDataTable.Columns.Add(MyLocalcluster1.Name, typeof(double));
+	}i1 = 0;
+	foreach (Cluster MyLocalcluster1 in MySuperCluster.SCluster)
+	{
+		List<object> MyObjectList = new List<object>();
+		MyObjectList.Add(Convert.ToString(MyLocalcluster1.Name));
+		/*Перебираем все  кластеры*/
+		int j = 0;
+		foreach (Cluster MyLocalcluster2 in MyCluster.SCluster)
+		{
+			MyObjectList.Add(Convert.ToDouble(UCluster[j].Ulist[i1]));
+				j++;
+		}
+		MyUDataTable.Rows.Add(MyObjectList.ToArray());
+		i1++;
+	}
+	return MyUDataTable;            
+}
+</script>

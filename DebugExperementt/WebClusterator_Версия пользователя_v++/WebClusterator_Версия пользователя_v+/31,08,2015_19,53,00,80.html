@@ -1,0 +1,42 @@
+<!-- -- Bootstrap ----> 
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
+<script src="jquery-latest.js"></script> 
+<script src="bootstrap/js/bootstrap.min.js"></script> 
+<!-- -- Fun_Displayer.js ----> 
+<script src="js/Fun_ConvertToNumber.js"></script> 
+<!-- -- Fun_Displayer.js ----> 
+<script src="js/Fun_Displayer.js"></script> 
+<!-- -- Fun_Displayer.js ----> 
+<script src="js/Unit_List.js"></script> 
+<!-- -- Unit_DataConvert.js ----> 
+<script src="js/Unit_DataConvert.js"></script> 
+<!-- -- Unit_CC_m4.js ----> 
+<script src="js/Unit_CC_m4.js"></script>	 
+<!-- -- Unit_FCM.js ----> 
+<script src="js/Unit_FCM.js"></script> 
+<form id="DataInput" class="label label-warning" style="display:block;"><div width=100% class="label label-success" style="display:block;"><center>Ввод данных</center></div><br> 
+<center><div id="DataInput1" class="btn btn-info" style="display:block;">Кластеризовать</div></center> 
+<div id="DataInput7_1" class="btn btn-success" style="display:block;">Кластеризация центроидным методом</div> 
+<div id="DataInput7_2" class="btn btn-success" style="display:none;">Кластеризация FCM методом</div><center><div>Укажите количество кластеров (>=2)</div></center> 
+<center><textarea id="DataInput2">2</textarea></center> 
+<div id="DataInput5" class="btn btn-success" style="display:block;">Нормировать данные</div> 
+<div id="DataInput6" class="btn btn-success" style="display:none;">Не нормировать данные</div><center><div>Входные данные<br> Импортируйте их из таблиц Excel<br> Допускается правка данных</div></center> 
+<center><textarea id="DataInput3">Параметры	П1	П2	П3 
+Анкета№1	1	2	3 
+Анкета№2	7	8	9 
+Анкета№3	3	4	5 
+</textarea></center> 
+<center><div id="DataInput4" class="btn btn-info" style="display:block;">Посмотреть исходные данные</div></center> 
+<center><div id="DataInputTryTablefraim" class="label label-success" style="display:none;"><center><div>Исходные данные<br></div></center> 
+<table id="DataInputTryTable" class="table table-striped" style="display:block;"></table>  
+</div></center></form> 
+<form id="DataOutput" class="label label-warning" style="display:none;"><div width=100% class="label label-success" style="display:block;"><center>Вывод результатов кластеризации</center></div><br><center><div id="DataOutputTablefraim" class="label label-success" style="display:block;"><table id="DataOutputTable" class="table table-striped" style="display:block;"></table></div></center></form> 
+<script>ToBeeNorm= true; 
+document.all.DataInput5.onclick = function (){displayer(document.all.DataInput5);displayer(document.all.DataInput6);ToBeeNorm= false;} 
+document.all.DataInput6.onclick = function (){displayer(document.all.DataInput5);displayer(document.all.DataInput6);ToBeeNorm= true;}</script> 
+<script>document.all.DataInput7_1.onclick = function (){displayer(document.all.DataInput7_1);displayer(document.all.DataInput7_2);document.all.DataOutput.style.display = 'none';ToBeeNorm= false;} 
+document.all.DataInput7_2.onclick = function (){displayer(document.all.DataInput7_2);displayer(document.all.DataInput7_1);document.all.DataOutput.style.display = 'none';ToBeeNorm= true;}</script> 
+<script>document.all.DataInput4.onclick = function (){displayer(document.all.DataInputTryTablefraim);DataProject = ConvertTextToDataProject(document.all.DataInput3.value);document.all.DataInputTryTable.innerHTML='';ConvertDataProjectToTable_TypeAfterInput(DataProject,document.all.DataInputTryTable);}</script> 
+<script>function StartCC(){rez = СentroidСlustering(DataProject,document.all.DataInput2.value,ToBeeNorm);for(i=0;i<rez.Count();i++){ConvertDataProjectToTable_TypeAfterInput(rez.at(i),document.all.DataOutputTable);}} 
+function StartFCM(){rez = СentroidСlustering   (DataProject,document.all.DataInput2.value,ToBeeNorm);TM = new List();{{AL = new List();AL.add("TM");for(i=0;i<rez.Count();i++){AL.add("C"+i);}TM.add(AL);}for(i=1;i<DataProject.Count();i++){AL = new List();if(DataProject.at(i).Count()>1){AL.add(DataProject.at(i).at(0));for(j=0;j<rez.Count();j++){flag=false;for(k=1;k<rez.at(j).Count();k++){if(DataProject.at(i).at(0)==rez.at(j).at(k).at(0)){flag=true;}}if(flag){AL.add("1");}else{AL.add("0");}}TM.add(AL);}}}TC = new List();{{AL = new List();AL.add("TC");for(i=1;i<DataProject.at(0).Count();i++){AL.add(DataProject.at(0).at(i));}TC.add(AL);}for(i=0;i<rez.Count();i++){AL = new List();AL.add("C"+i);qer = PointСС(rez.at(i));for(j=0;j<qer.Count();j++){AL.add(qer.at(j));}TC.add(AL);}}ConvertDataProjectToTable_TypeAfterInput(FCMClustering(TM,TC,DataProject,10),document.all.DataOutputTable);} 
+document.all.DataInput1.onclick = function (){test = ConvertToNumber(document.all.DataInput2.value);if(test>=2){displayer(document.all.DataOutput);DataProject = ConvertTextToDataProject(document.all.DataInput3.value);document.all.DataOutputTable.innerHTML='';if(document.all.DataInput7_1.style.display == 'block'){StartCC();}if(document.all.DataInput7_2.style.display == 'block'){StartFCM();}}else{text = "Неверно введено количество кластеров.";text = text + "\n Повторите ввод.";document.all.textarea2.value=2;alert(text);}}</script> 
